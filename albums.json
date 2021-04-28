@@ -27,17 +27,17 @@
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7297cff754dc05b6dc4dd9bda38aff56&s=74434ce9a3d6414f92133cde5a98254e",
-        "short_url": "http://t.cn/A6cHvIMH",
-        "weibo_url": ""
+        "url": "https://music.163.com/store/m/album/receive/update?tk=30c9a7a834ab4ac7c03d7fe40f230f9c&s=b189a4aa522449ea82f36f9667490267",
+        "short_url": "http://t.cn/A6cRh7Om",
+        "weibo_url": "https://weibo.com/detail/4630931510134631"
     },
     {
         "artist": "朱正廷",
         "name": "The Winter Light (冬日告白)",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5e65e24ad971569de0adc91321edd79b&s=9f5d726d07034fc490004f97a5db94a0",
-        "short_url": "http://t.cn/A6cHv5KT",
-        "weibo_url": "https://weibo.com/detail/4630204838314222"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2376d7033730b0fe5fcf25e6f76b3abd&s=995ae2df29bc41d4b76388c2a678ec8e",
+        "short_url": "http://t.cn/A6cRhhq4",
+        "weibo_url": "https://weibo.com/detail/4630931397410981"
     },
     {
         "artist": "李润祺",
@@ -54,5 +54,29 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=9616cb6a42d655f402b730ba8e9aac7d&s=cc3b558814824a28b190a07a2aa330f0",
         "short_url": "http://t.cn/A6c8KtGc",
         "weibo_url": "https://weibo.com/detail/4630754262255884"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e6cf88aa82c765d0b66b1783474bf3c2&s=a2eed8a72bc6452ab1777cd8b53ce11d",
+        "short_url": "http://t.cn/A6cRhSzA",
+        "weibo_url": "https://weibo.com/detail/4630933272272391"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4f47ea692d5c24a124b20c6c492b5244&s=e935079744184cd5a30d138aec37e39e",
+        "short_url": "http://t.cn/A6c8DzjS",
+        "weibo_url": "https://weibo.com/detail/4630907120781924"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Hard Road",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ef014c505dc499766e85be2054506e61&s=cd9797f1a1df47019b6f63e9ac267cc4",
+        "short_url": "http://t.cn/A6c8scWt",
+        "weibo_url": "https://weibo.com/detail/4630920075675088"
     }
 ]
