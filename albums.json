@@ -1,21 +1,5 @@
 [
     {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=913ef9fc6d5be5a2837e6fd62bad2d59&s=78835e0b80e54b3d9eab6a9eadc11a3a",
-        "short_url": "http://t.cn/A6cQBGoR",
-        "weibo_url": "https://weibo.com/detail/4630608094954428"
-    },
-    {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3738c3cf848d5b8346449b7a14095100&s=d9b91d17b5744575883606b34a27ef2a",
-        "short_url": "http://t.cn/A6cQBGoQ",
-        "weibo_url": "https://weibo.com/detail/4630608094954428"
-    },
-    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
@@ -46,6 +30,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=9616cb6a42d655f402b730ba8e9aac7d&s=cc3b558814824a28b190a07a2aa330f0",
         "short_url": "http://t.cn/A6c8KtGc",
         "weibo_url": "https://weibo.com/detail/4630754262255884"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=46574e3ab58b8345db6fa1b6e0fca0fc&s=1c2b8d7196a14261a6f11ec2d4d89b9a",
+        "short_url": "http://t.cn/A6cEXFek",
+        "weibo_url": "https://weibo.com/detail/4631318233616469"
     },
     {
         "artist": "范丞丞",
