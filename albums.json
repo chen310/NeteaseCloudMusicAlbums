@@ -1,21 +1,5 @@
 [
     {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=715ab687aa1c340656c4bf2027867299&s=f73d6bee7b6840af932581955da1b138",
-        "short_url": "http://t.cn/A6cR2usF",
-        "weibo_url": "https://weibo.com/detail/4630963186045447"
-    },
-    {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7003b5c457210e075fca6f9158db4619&s=75e338ef483a49289b0264e8e5defc03",
-        "short_url": "http://t.cn/A6cHnfb4",
-        "weibo_url": "https://weibo.com/detail/4630328330683672"
-    },
-    {
         "artist": "华晨宇",
         "name": "好想爱这个世界啊",
         "type": "album",
@@ -70,6 +54,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e6cf88aa82c765d0b66b1783474bf3c2&s=a2eed8a72bc6452ab1777cd8b53ce11d",
         "short_url": "http://t.cn/A6cRhSzA",
         "weibo_url": "https://weibo.com/detail/4630933272272391"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=715ab687aa1c340656c4bf2027867299&s=f73d6bee7b6840af932581955da1b138",
+        "short_url": "http://t.cn/A6cR2usF",
+        "weibo_url": "https://weibo.com/detail/4630963186045447"
     },
     {
         "artist": "黄明昊 (Justin)",
