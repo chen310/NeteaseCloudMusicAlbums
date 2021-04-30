@@ -8,22 +8,6 @@
         "weibo_url": "https://weibo.com/detail/4631509657714954"
     },
     {
-        "artist": "朱正廷",
-        "name": "Chapter Z",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=30c9a7a834ab4ac7c03d7fe40f230f9c&s=b189a4aa522449ea82f36f9667490267",
-        "short_url": "http://t.cn/A6cRh7Om",
-        "weibo_url": "https://weibo.com/detail/4630931510134631"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "The Winter Light (冬日告白)",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2376d7033730b0fe5fcf25e6f76b3abd&s=995ae2df29bc41d4b76388c2a678ec8e",
-        "short_url": "http://t.cn/A6cRhhq4",
-        "weibo_url": "https://weibo.com/detail/4630931397410981"
-    },
-    {
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
@@ -33,50 +17,10 @@
     },
     {
         "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=46574e3ab58b8345db6fa1b6e0fca0fc&s=1c2b8d7196a14261a6f11ec2d4d89b9a",
-        "short_url": "http://t.cn/A6cEXFek",
-        "weibo_url": "https://weibo.com/detail/4631318233616469"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e6cf88aa82c765d0b66b1783474bf3c2&s=a2eed8a72bc6452ab1777cd8b53ce11d",
-        "short_url": "http://t.cn/A6cRhSzA",
-        "weibo_url": "https://weibo.com/detail/4630933272272391"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a1cbff6bcce7f7418c87580f4c13eb97&s=d4c87a584da84e8c813c83d9e361a0df",
-        "short_url": "http://t.cn/A6cENruS",
-        "weibo_url": "https://weibo.com/detail/4631350995587512"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=715ab687aa1c340656c4bf2027867299&s=f73d6bee7b6840af932581955da1b138",
-        "short_url": "http://t.cn/A6cR2usF",
-        "weibo_url": "https://weibo.com/detail/4630963186045447"
-    },
-    {
-        "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5d59aa6abff1ca4ef228c5f2e5ffcf5e&s=9df3ae2c76a04991bedafed2dcfbc91e",
         "short_url": "http://t.cn/A6cnhS7A",
         "weibo_url": "https://weibo.com/detail/4631460156281612"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ef014c505dc499766e85be2054506e61&s=cd9797f1a1df47019b6f63e9ac267cc4",
-        "short_url": "http://t.cn/A6c8scWt",
-        "weibo_url": "https://weibo.com/detail/4630920075675088"
     }
 ]
