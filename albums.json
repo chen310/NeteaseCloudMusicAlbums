@@ -1,13 +1,5 @@
 [
     {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=323501bba77e197da1acb05291bd676e&s=c4869d750a9b40328deb74725712312f",
-        "short_url": "http://t.cn/A6cBBdf3",
-        "weibo_url": "https://weibo.com/detail/4632872830896375"
-    },
-    {
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
@@ -54,13 +46,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b985fc44496f73fa1b084d1be0ec7cf2&s=a79c4a53a20d4d039d3ba94e92101496",
         "short_url": "http://t.cn/A6cBuInj",
         "weibo_url": "https://weibo.com/detail/4632856757797254"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c2f9b0aa44e6837226d262a5bd2817f6&s=6df22b254db2482c9a07e0dcb9a2cb53",
-        "short_url": "http://t.cn/A6cBkACg",
-        "weibo_url": "https://weibo.com/detail/4632891949056627"
     }
 ]
