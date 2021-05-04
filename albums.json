@@ -105,19 +105,19 @@
     },
     {
         "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=72c71bb51449e4c1d80c277b7be45a7b&s=b86c37958c5f40d39d620f7b53774732",
-        "short_url": "http://t.cn/A6cdNrS8",
-        "weibo_url": "https://weibo.com/detail/4633302223553116"
-    },
-    {
-        "artist": "李润祺",
         "name": "请杀死我的浪漫",
         "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=62fdeea11930c392e6a0541aec9b9c2b&s=6f5212f0889041708edf3a23f736af32",
         "short_url": "http://t.cn/A6cdNm33",
         "weibo_url": "https://weibo.com/detail/4633301790754682"
+    },
+    {
+        "artist": "李润祺",
+        "name": "请杀死我的浪漫",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=b827d93878f3f7f7017801445abc5db9&s=b1f0638dea6b42a9a81a05bd87000760",
+        "short_url": "http://t.cn/A6cdpwRj",
+        "weibo_url": "https://weibo.com/detail/4633303535324167"
     },
     {
         "artist": "鞠婧祎",
