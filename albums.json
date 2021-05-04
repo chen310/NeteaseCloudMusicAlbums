@@ -8,20 +8,36 @@
         "weibo_url": "https://weibo.com/detail/4632910436762903"
     },
     {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d877251e7abe3be50ab27a33c3733b97&s=4b4bc1222fb04f428d0b89ade4f14cde",
+        "short_url": "http://t.cn/A6cr1GqX",
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c4d133ff067e5ec8ed9483ad6363eed6&s=62b5a28c5dd84bb99f41c8f884a0c3ec",
+        "short_url": "http://t.cn/A6crnsDH",
+        "weibo_url": "https://weibo.com/detail/4633121948177433"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=78b7b2389ff1e0d86400d97d25751b7a&s=d3fd441238ae4a7695ccddb09a5750d8",
+        "short_url": "http://t.cn/A6crmfRR",
+        "weibo_url": "https://weibo.com/detail/4633123520774830"
+    },
+    {
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e14fdf18c46a83154ca7fb72bf369bc0&s=65b1a6486813487cb970d1f4984b1bcb",
         "short_url": "http://t.cn/A6c1wYQ2",
         "weibo_url": "https://weibo.com/detail/4632529108209993"
-    },
-    {
-        "artist": "王一博",
-        "name": "无感",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d9a27c1ff71d1c74612ef4f3f25ab000&s=787e88bc4fc24d20868c82defc31fa73",
-        "short_url": "http://t.cn/A6c3VTqq",
-        "weibo_url": "https://weibo.com/detail/4632408114074318"
     },
     {
         "artist": "王嘉尔",
@@ -62,5 +78,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b985fc44496f73fa1b084d1be0ec7cf2&s=a79c4a53a20d4d039d3ba94e92101496",
         "short_url": "http://t.cn/A6cBuInj",
         "weibo_url": "https://weibo.com/detail/4632856757797254"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3cf16ceaa69977cb3ebd91c84b70d94d&s=7debcb5b973a46a2b1ec085fbfa0ccc8",
+        "short_url": "http://t.cn/A6cBBSdX",
+        "weibo_url": "https://weibo.com/detail/4632870918559330"
     }
 ]
