@@ -1,5 +1,29 @@
 [
     {
+        "artist": "IU",
+        "name": "에잇",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=50c9d0b41131fa2770668a4f4c0a12e4&s=a002818ba77749d5b2f36611f0e1a19c",
+        "short_url": "http://t.cn/A6cguCWK",
+        "weibo_url": "https://weibo.com/detail/4633649984569451"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "光",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d8e94cdfbed305fef432d2a67de11fc8&s=211f17fc50834784a2885222c65ca3cc",
+        "short_url": "http://t.cn/A6cgSin0",
+        "weibo_url": "https://weibo.com/detail/4633597543974990"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "光",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3425c1e57ad9c6a683b2a9e53a736744&s=61ebe0a994344abe8fa92995a7d4a140",
+        "short_url": "http://t.cn/A6cgdIwV",
+        "weibo_url": "https://weibo.com/detail/4633672911421792"
+    },
+    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -184,12 +208,20 @@
         "weibo_url": "https://weibo.com/detail/4633565482976995"
     },
     {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=2b989905fd032904bdf789fc57232242&s=76b55afbf6e04d78a36adbb3759678b4",
-        "short_url": "http://t.cn/A6cgMYH8",
-        "weibo_url": "https://weibo.com/detail/4633566702734203"
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2bc91b1b1b214498cc5a933d36327294&s=4147e3835c95408c98f872f7b2d303ec",
+        "short_url": "http://t.cn/A6cg4dO3",
+        "weibo_url": "https://weibo.com/detail/4633517667910456"
+    },
+    {
+        "artist": "王嘉尔",
+        "name": "MIRRORS",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ee95906233e8eac266aa0f91d26a077d&s=b4e844842d6941ba942e5f697147ac52",
+        "short_url": "http://t.cn/A6cgCdoU",
+        "weibo_url": "https://weibo.com/detail/4633614459077876"
     },
     {
         "artist": "范丞丞",
