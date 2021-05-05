@@ -67,9 +67,25 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4666cb431e09217d5b96a1fb2981a3a0&s=444ad48be4dd441384c91a1b1077daaf",
+        "short_url": "http://t.cn/A6cgMt4d",
+        "weibo_url": "https://weibo.com/detail/4633564668233641"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=58c69cbd94b851d8a544dce025529698&s=3f563f2c979d47d190a0c6c4ce6a00f7",
         "short_url": "http://t.cn/A6crdAzH",
         "weibo_url": "https://weibo.com/detail/4633150712188870"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6f6d96d8fa5c8dc8ff2fb7b1969b7e15&s=9b4df651e2e4458a939ad5a8b692dbc4",
+        "short_url": "http://t.cn/A6cgMUgI",
+        "weibo_url": "https://weibo.com/detail/4633564211581464"
     },
     {
         "artist": "李润祺",
@@ -113,11 +129,19 @@
     },
     {
         "artist": "李润祺",
-        "name": "请杀死我的浪漫",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=86b347a0d81f74adbfa34a8d9b59961d&s=1f8bc3c1ee634e789e5a9b20bbe94051",
+        "short_url": "http://t.cn/A6cgJPTw",
+        "weibo_url": "https://weibo.com/detail/4633573611277882"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
         "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=b827d93878f3f7f7017801445abc5db9&s=b1f0638dea6b42a9a81a05bd87000760",
-        "short_url": "http://t.cn/A6cdpwRj",
-        "weibo_url": "https://weibo.com/detail/4633303535324167"
+        "url": "https://music.163.com/store/m/song/receive?tk=2b989905fd032904bdf789fc57232242&s=76b55afbf6e04d78a36adbb3759678b4",
+        "short_url": "http://t.cn/A6cgMYH8",
+        "weibo_url": "https://weibo.com/detail/4633566702734203"
     },
     {
         "artist": "范丞丞",
@@ -150,14 +174,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=194c2bfd8bc4e3530e04003ece3af207&s=85c60811010245e8b4685e502ecf9844",
         "short_url": "http://t.cn/A6cdEI4h",
         "weibo_url": "https://weibo.com/detail/4633394014847007"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8b3b4a60be888e9ac7102425c975e2ea&s=e50aa757cc774aaa8ea2116f1d05f9ae",
-        "short_url": "http://t.cn/A6cdDgNV",
-        "weibo_url": "https://weibo.com/detail/4633442719372417"
     },
     {
         "artist": "范丞丞",
