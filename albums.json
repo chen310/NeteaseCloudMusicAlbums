@@ -1,11 +1,35 @@
 [
     {
-        "artist": "IU",
-        "name": "에잇",
+        "artist": "孟美岐",
+        "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9d4d90e72a51897d9e985a5c00f3e503&s=ed6a6a04e82a41c1be656825ecffaf5c",
-        "short_url": "http://t.cn/A6ceRr9G",
-        "weibo_url": "https://weibo.com/detail/4633926230607662"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4061d799f827a9049d8ef469b6251ca6&s=2f2e7ffe7ca14b06b2f8fb3a915857ba",
+        "short_url": "http://t.cn/A6ceEbuk",
+        "weibo_url": "https://weibo.com/detail/4633927194515444"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ae3c2d2bd6ace3f335b648a011a648ae&s=91b6f50c2bd24bc6b18d75f5c675f46a",
+        "short_url": "http://t.cn/A6ceEVwo",
+        "weibo_url": "https://weibo.com/detail/4633929904555163"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5d35739adfbb9dc918bc0e397ba1288d&s=8c7f490030934523a19613034cc6e0dc",
+        "short_url": "http://t.cn/A6centDM",
+        "weibo_url": "https://weibo.com/detail/4633930042710125"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9db0bde569691df824493b5ad2e5d115&s=8ebd12345dd74c9ca343399292146b9e",
+        "short_url": "http://t.cn/A6cen73b",
+        "weibo_url": "https://weibo.com/detail/4633929456027269"
     },
     {
         "artist": "李润祺",
