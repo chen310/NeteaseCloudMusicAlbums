@@ -1,21 +1,5 @@
 [
     {
-        "artist": "IU",
-        "name": "에잇",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=61c770dc63d1485d9e891af2663d7e9c&s=b8cc5fc2c7cc48faa235b1ce81fb15f3",
-        "short_url": "http://t.cn/A6ceCtTr",
-        "weibo_url": "https://weibo.com/detail/4633873894083858"
-    },
-    {
-        "artist": "周深",
-        "name": "化身孤岛的鲸",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=d4857f2dd7a835a978c05fa9e45ff5ea&s=3d5a2caa6c4148208dc7e95f1110de21",
-        "short_url": "http://t.cn/A6ceNGLl",
-        "weibo_url": "https://weibo.com/detail/4633878167819147"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -59,17 +43,17 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0b616de2c87583639dfeab0bd89fd943&s=4a39b84dbf7d4656a4d7ce739c314e14",
-        "short_url": "http://t.cn/A6cgM1XF",
-        "weibo_url": "https://weibo.com/detail/4633567626005654"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6a838f9a7fb2735ed42c554747bc3f87&s=72043c0502594236a8983f013aa7f980",
+        "short_url": "http://t.cn/A6cdNYam",
+        "weibo_url": "https://weibo.com/detail/4633301073789098"
     },
     {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6a838f9a7fb2735ed42c554747bc3f87&s=72043c0502594236a8983f013aa7f980",
-        "short_url": "http://t.cn/A6cdNYam",
-        "weibo_url": "https://weibo.com/detail/4633301073789098"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0b616de2c87583639dfeab0bd89fd943&s=4a39b84dbf7d4656a4d7ce739c314e14",
+        "short_url": "http://t.cn/A6cgM1XF",
+        "weibo_url": "https://weibo.com/detail/4633567626005654"
     },
     {
         "artist": "李润祺",
@@ -102,14 +86,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e0ff1c32c630c1dc8b98fa7bd4ac69ac&s=8307a23d65504774b7cb1126c958d566",
         "short_url": "http://t.cn/A6cgMTWX",
         "weibo_url": "https://weibo.com/detail/4633566774560151"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a1f8b9ce3026a58aa9643f2d858f13c5&s=9a9cdfb6a1814d4c8ca0b6543e77b526",
-        "short_url": "http://t.cn/A6ceaCCK",
-        "weibo_url": "https://weibo.com/detail/4633853359295404"
     },
     {
         "artist": "李润祺",
@@ -155,9 +131,9 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f2795966c55785bf77db8ba64e559b0b&s=bd21a2b5784a4c96a2fb3acb507cf874",
-        "short_url": "http://t.cn/A6cgM6BV",
-        "weibo_url": "https://weibo.com/detail/4633565482976995"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a1f8b9ce3026a58aa9643f2d858f13c5&s=9a9cdfb6a1814d4c8ca0b6543e77b526",
+        "short_url": "http://t.cn/A6ceaCCK",
+        "weibo_url": "https://weibo.com/detail/4633853359295404"
     },
     {
         "artist": "范丞丞",
@@ -182,14 +158,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=77fdb4dc3f86b40208b6a6c7b4ed5784&s=59dddb9ef4a842efac7b8f6f8ad26592",
         "short_url": "http://t.cn/A6cdug9X",
         "weibo_url": "https://weibo.com/detail/4633409655670806"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=194c2bfd8bc4e3530e04003ece3af207&s=85c60811010245e8b4685e502ecf9844",
-        "short_url": "http://t.cn/A6cdEI4h",
-        "weibo_url": "https://weibo.com/detail/4633394014847007"
     },
     {
         "artist": "范丞丞",
