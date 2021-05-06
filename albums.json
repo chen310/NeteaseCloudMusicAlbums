@@ -27,6 +27,14 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6c31aded5eb6c7fe8e4ea957122fe705&s=a606876cc15540b0b20106198aef1eb8",
+        "short_url": "http://t.cn/A6cemG5i",
+        "weibo_url": "https://weibo.com/detail/4633932500568792"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9db0bde569691df824493b5ad2e5d115&s=8ebd12345dd74c9ca343399292146b9e",
         "short_url": "http://t.cn/A6cen73b",
         "weibo_url": "https://weibo.com/detail/4633929456027269"
@@ -206,5 +214,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=9b1bdd2305a253a8afc7b446a7edb897&s=5d24889b6d6f43849edb59c58363b8fa",
         "short_url": "http://t.cn/A6cdmjSZ",
         "weibo_url": "https://weibo.com/detail/4633404030587325"
+    },
+    {
+        "artist": "韩沐伯",
+        "name": "来·走",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=64034522e3b9e60dc5e11c84497cdb21&s=4d31f1d6498149e48a0254ad023367eb",
+        "short_url": "http://t.cn/A6cemxaj",
+        "weibo_url": "https://weibo.com/detail/4633932870193038"
     }
 ]
