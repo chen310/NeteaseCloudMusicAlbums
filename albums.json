@@ -1,82 +1,42 @@
 [
     {
-        "artist": "范丞丞",
-        "name": "I'm Here",
+        "artist": "孟美岐",
+        "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=715ab687aa1c340656c4bf2027867299&s=f73d6bee7b6840af932581955da1b138",
-        "short_url": "http://t.cn/A6cR2usF",
-        "weibo_url": "https://weibo.com/detail/4630963186045447"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=db0c839cb8d27fb66171e7bc973f4e78&s=bbf4ec47a084480b991744353f183d05",
+        "short_url": "http://t.cn/A6ce1QoR",
+        "weibo_url": "https://weibo.com/detail/4633942617757006"
     },
     {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
+        "artist": "孟美岐",
+        "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7003b5c457210e075fca6f9158db4619&s=75e338ef483a49289b0264e8e5defc03",
-        "short_url": "http://t.cn/A6cHnfb4",
-        "weibo_url": "https://weibo.com/detail/4630328330683672"
-    },
-    {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=913ef9fc6d5be5a2837e6fd62bad2d59&s=78835e0b80e54b3d9eab6a9eadc11a3a",
-        "short_url": "http://t.cn/A6cQBGoR",
-        "weibo_url": "https://weibo.com/detail/4630608094954428"
-    },
-    {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3738c3cf848d5b8346449b7a14095100&s=d9b91d17b5744575883606b34a27ef2a",
-        "short_url": "http://t.cn/A6cQBGoQ",
-        "weibo_url": "https://weibo.com/detail/4630608094954428"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "Chapter Z",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=30c9a7a834ab4ac7c03d7fe40f230f9c&s=b189a4aa522449ea82f36f9667490267",
-        "short_url": "http://t.cn/A6cRh7Om",
-        "weibo_url": "https://weibo.com/detail/4630931510134631"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "The Winter Light (冬日告白)",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2376d7033730b0fe5fcf25e6f76b3abd&s=995ae2df29bc41d4b76388c2a678ec8e",
-        "short_url": "http://t.cn/A6cRhhq4",
-        "weibo_url": "https://weibo.com/detail/4630931397410981"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=09a5296dbffb786fe382a870d0cc546e&s=e070f37bbcdd4be6bf9f2fbaf5bfda63",
+        "short_url": "http://t.cn/A6ceuymQ",
+        "weibo_url": "https://weibo.com/detail/4633934987531077"
     },
     {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=156f1aca79cfa086907243d0b6c9d5c6&s=95bcbca923d145cbb6e30fb850c5eafa",
-        "short_url": "http://t.cn/A6c8a539",
-        "weibo_url": ""
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b0b265612d88b1709a908cdfad6c8838&s=3c5d4cffe0d645c58aa18ed604cdc765",
+        "short_url": "http://t.cn/A6ceI6U9",
+        "weibo_url": "https://weibo.com/detail/4633821616801536"
     },
     {
-        "artist": "范丞丞",
-        "name": "EMERGING",
+        "artist": "李润祺",
+        "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9616cb6a42d655f402b730ba8e9aac7d&s=cc3b558814824a28b190a07a2aa330f0",
-        "short_url": "http://t.cn/A6c8KtGc",
-        "weibo_url": "https://weibo.com/detail/4630754262255884"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bfc7282d03d6ad866b59ed884baecfbc&s=6920aacb7f2d46bd99d37ff1e5f20185",
+        "short_url": "http://t.cn/A6cgjaXT",
+        "weibo_url": "https://weibo.com/detail/4633627663273376"
     },
     {
-        "artist": "范丞丞",
-        "name": "EMERGING",
+        "artist": "李润祺",
+        "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e6cf88aa82c765d0b66b1783474bf3c2&s=a2eed8a72bc6452ab1777cd8b53ce11d",
-        "short_url": "http://t.cn/A6cRhSzA",
-        "weibo_url": "https://weibo.com/detail/4630933272272391"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ef014c505dc499766e85be2054506e61&s=cd9797f1a1df47019b6f63e9ac267cc4",
-        "short_url": "http://t.cn/A6c8scWt",
-        "weibo_url": "https://weibo.com/detail/4630920075675088"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a3b1691e49cd7910435fd8409876e882&s=b2001b0d84e24c59a32039a67d514337",
+        "short_url": "http://t.cn/A6cgTzc9",
+        "weibo_url": "https://weibo.com/detail/4633630901535517"
     }
 ]
