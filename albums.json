@@ -3,17 +3,9 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4061d799f827a9049d8ef469b6251ca6&s=2f2e7ffe7ca14b06b2f8fb3a915857ba",
-        "short_url": "http://t.cn/A6ceEbuk",
-        "weibo_url": "https://weibo.com/detail/4633927194515444"
-    },
-    {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ae3c2d2bd6ace3f335b648a011a648ae&s=91b6f50c2bd24bc6b18d75f5c675f46a",
-        "short_url": "http://t.cn/A6ceEVwo",
-        "weibo_url": "https://weibo.com/detail/4633929904555163"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fa6c98e3b18b8913b6b823abdc6f2ba4&s=5a62e0931a004eee955b920c4dc04b4d",
+        "short_url": "http://t.cn/A6ceEIjG",
+        "weibo_url": "https://weibo.com/detail/4633927559681213"
     },
     {
         "artist": "孟美岐",
@@ -27,9 +19,17 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=937b21c96aa4bb2dc0f834240bd0d5be&s=db5875cfa6204e9eaf193e60b8196acc",
-        "short_url": "http://t.cn/A6ceE7A2",
-        "weibo_url": "https://weibo.com/detail/4633926699850095"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4061d799f827a9049d8ef469b6251ca6&s=2f2e7ffe7ca14b06b2f8fb3a915857ba",
+        "short_url": "http://t.cn/A6ceEbuk",
+        "weibo_url": "https://weibo.com/detail/4633927194515444"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d6be5074fc3c6a63bb00fa2015e515bb&s=259de061a0984181a38b9f5e4f01d174",
+        "short_url": "http://t.cn/A6cenMbA",
+        "weibo_url": "https://weibo.com/detail/4633931071101532"
     },
     {
         "artist": "李润祺",
@@ -131,24 +131,16 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6f6d96d8fa5c8dc8ff2fb7b1969b7e15&s=9b4df651e2e4458a939ad5a8b692dbc4",
-        "short_url": "http://t.cn/A6cgMUgI",
-        "weibo_url": "https://weibo.com/detail/4633564211581464"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=4666cb431e09217d5b96a1fb2981a3a0&s=444ad48be4dd441384c91a1b1077daaf",
         "short_url": "http://t.cn/A6cgMt4d",
         "weibo_url": "https://weibo.com/detail/4633564668233641"
     },
     {
-        "artist": "范丞丞",
-        "name": "EMERGING",
+        "artist": "李润祺",
+        "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b91b80ff1b75758341f67111a1d10c6f&s=3e89b5ef76454c1ca3e095cbb97ad6d8",
-        "short_url": "http://t.cn/A6cd10x5",
-        "weibo_url": "https://weibo.com/detail/4633417105280833"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6f6d96d8fa5c8dc8ff2fb7b1969b7e15&s=9b4df651e2e4458a939ad5a8b692dbc4",
+        "short_url": "http://t.cn/A6cgMUgI",
+        "weibo_url": "https://weibo.com/detail/4633564211581464"
     }
 ]
