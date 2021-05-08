@@ -59,17 +59,17 @@
         "artist": "王一博",
         "name": "我的世界守则",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=aa10c1843778461fbf9ccc2671c760e5&s=3d10350d75374ee8a2e642b66ae9d23d",
-        "short_url": "http://t.cn/A6cFBAkH",
-        "weibo_url": "https://weibo.com/detail/4634584018847939"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8ba90731b0346f95238723ad6fdb5b21&s=58a88cc0d49e4f79aacf27534b712199",
+        "short_url": "http://t.cn/A6cFn56s",
+        "weibo_url": "https://weibo.com/detail/4634562363654749"
     },
     {
         "artist": "王一博",
         "name": "我的世界守则",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8ba90731b0346f95238723ad6fdb5b21&s=58a88cc0d49e4f79aacf27534b712199",
-        "short_url": "http://t.cn/A6cFn56s",
-        "weibo_url": "https://weibo.com/detail/4634562363654749"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=aa10c1843778461fbf9ccc2671c760e5&s=3d10350d75374ee8a2e642b66ae9d23d",
+        "short_url": "http://t.cn/A6cFBAkH",
+        "weibo_url": "https://weibo.com/detail/4634584018847939"
     },
     {
         "artist": "王一博",
@@ -86,21 +86,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=bccca5cfab0032b897c28bbe47a3821d&s=047b02996500416383784ad72443c71a",
         "short_url": "http://t.cn/A6csxKDZ",
         "weibo_url": "https://weibo.com/detail/4634712927376015"
-    },
-    {
-        "artist": "白敬亭",
-        "name": "不加糖 (ZERO)",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=f5165bc651167989a48c1112aa452665&s=8a61c04616aa4eb49c5b1bcb29c2965f",
-        "short_url": "http://t.cn/A6cspbIx",
-        "weibo_url": "https://weibo.com/detail/4634744971855067"
-    },
-    {
-        "artist": "白敬亭",
-        "name": "不加糖 (ZERO)",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=670d1fe1f4633437f5ff370547dedc77&s=b65695f1f37d4f83a8d23e5dfb308484",
-        "short_url": "http://t.cn/A6cs0HFk",
-        "weibo_url": "https://weibo.com/detail/4634742907733699"
     }
 ]
