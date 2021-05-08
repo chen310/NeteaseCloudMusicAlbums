@@ -43,14 +43,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d4be28276eec35f04b3658bb413a82aa&s=8c73aea2cc57427d8f3e10460c952a0b",
-        "short_url": "http://t.cn/A6csKZ9j",
-        "weibo_url": "https://weibo.com/detail/4634727925159163"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f842c0dacc69b9d9a1a3d2c97f0ad126&s=d9a3c34a1d244fbeaadc09156f84a6f3",
         "short_url": "http://t.cn/A6cF4ylD",
         "weibo_url": "https://weibo.com/detail/4634381454410492"
@@ -94,6 +86,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=bccca5cfab0032b897c28bbe47a3821d&s=047b02996500416383784ad72443c71a",
         "short_url": "http://t.cn/A6csxKDZ",
         "weibo_url": "https://weibo.com/detail/4634712927376015"
+    },
+    {
+        "artist": "白敬亭",
+        "name": "不加糖 (ZERO)",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=f5165bc651167989a48c1112aa452665&s=8a61c04616aa4eb49c5b1bcb29c2965f",
+        "short_url": "http://t.cn/A6cspbIx",
+        "weibo_url": "https://weibo.com/detail/4634744971855067"
     },
     {
         "artist": "白敬亭",
