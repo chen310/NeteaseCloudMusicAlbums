@@ -8,12 +8,12 @@
         "weibo_url": "https://weibo.com/detail/4634491592639584"
     },
     {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
+        "artist": "张哲瀚",
+        "name": "光",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b090fda5c85df4c4db0148876c1ee26f&s=a0bd9f72eba943f9915578c0f6eec972",
-        "short_url": "http://t.cn/A6cFXmG2",
-        "weibo_url": "https://weibo.com/detail/4634484500072797"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=26a25ea01916684072b306455d9342b0&s=51fa6795e94d47b587e09cd51161338f",
+        "short_url": "http://t.cn/A6cFohHT",
+        "weibo_url": "https://weibo.com/detail/4634492977284379"
     },
     {
         "artist": "张哲瀚",
@@ -22,14 +22,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5925b54b8994ed430f9def62728e219e&s=84d316c6aa2140f3863a901b496dc1aa",
         "short_url": "http://t.cn/A6cFKkU6",
         "weibo_url": "https://weibo.com/detail/4634500241557006"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "光",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=26a25ea01916684072b306455d9342b0&s=51fa6795e94d47b587e09cd51161338f",
-        "short_url": "http://t.cn/A6cFohHT",
-        "weibo_url": "https://weibo.com/detail/4634492977284379"
     },
     {
         "artist": "张哲瀚",
@@ -62,13 +54,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=21a9ff076aa06cca18601b96a4d1e2b8&s=6d7fa6adef794b53b9ef327f56f6abc4",
         "short_url": "http://t.cn/A6cF4SUc",
         "weibo_url": "https://weibo.com/detail/4634382839318093"
-    },
-    {
-        "artist": "王一博",
-        "name": "我的世界守则",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6f5960b4a16c13882ed57d5dbedad08e&s=8fd166576e9a4890ab9bb2a2a1ee4679",
-        "short_url": "http://t.cn/A6cFaaDf",
-        "weibo_url": "https://weibo.com/detail/4634487037888862"
     }
 ]
