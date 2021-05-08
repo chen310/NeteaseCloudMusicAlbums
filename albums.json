@@ -11,6 +11,14 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1b66adf2a43da5613e32427a0fcc6256&s=b8f6622b3f05457f9d46e3714f8d1f70",
+        "short_url": "http://t.cn/A6cFpWpm",
+        "weibo_url": "https://weibo.com/detail/4634514121558414"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=da07295b3f18a228752a0768192089c3&s=f082edfc2bfd4e01b91214e685fd339c",
         "short_url": "http://t.cn/A6cFSlaH",
         "weibo_url": "https://weibo.com/detail/4634491592639584"
@@ -22,14 +30,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=26a25ea01916684072b306455d9342b0&s=51fa6795e94d47b587e09cd51161338f",
         "short_url": "http://t.cn/A6cFohHT",
         "weibo_url": "https://weibo.com/detail/4634492977284379"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "光",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5925b54b8994ed430f9def62728e219e&s=84d316c6aa2140f3863a901b496dc1aa",
-        "short_url": "http://t.cn/A6cFKkU6",
-        "weibo_url": "https://weibo.com/detail/4634500241557006"
     },
     {
         "artist": "张哲瀚",
@@ -62,5 +62,21 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=21a9ff076aa06cca18601b96a4d1e2b8&s=6d7fa6adef794b53b9ef327f56f6abc4",
         "short_url": "http://t.cn/A6cF4SUc",
         "weibo_url": "https://weibo.com/detail/4634382839318093"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8ba90731b0346f95238723ad6fdb5b21&s=58a88cc0d49e4f79aacf27534b712199",
+        "short_url": "http://t.cn/A6cFn56s",
+        "weibo_url": "https://weibo.com/detail/4634562363654749"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=aa10c1843778461fbf9ccc2671c760e5&s=3d10350d75374ee8a2e642b66ae9d23d",
+        "short_url": "http://t.cn/A6cFBAkH",
+        "weibo_url": "https://weibo.com/detail/4634584018847939"
     }
 ]
