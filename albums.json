@@ -1,5 +1,21 @@
 [
     {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e4c99d63167405108bc6ab40b10fc934&s=b61a0dca5fb24a86ae1eaf2856c2f66e",
+        "short_url": "http://t.cn/A6csN6Zb",
+        "weibo_url": "https://weibo.com/detail/4634736058176812"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1bb5e7a86c9b5ef4a0ede4001428c00e&s=1bd55fe8b9144b548daa1765ff5ebc1a",
+        "short_url": "http://t.cn/A6csqmGJ",
+        "weibo_url": "https://weibo.com/detail/4634695198052556"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -24,6 +40,30 @@
         "weibo_url": ""
     },
     {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d4be28276eec35f04b3658bb413a82aa&s=8c73aea2cc57427d8f3e10460c952a0b",
+        "short_url": "http://t.cn/A6csKZ9j",
+        "weibo_url": "https://weibo.com/detail/4634727925159163"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f842c0dacc69b9d9a1a3d2c97f0ad126&s=d9a3c34a1d244fbeaadc09156f84a6f3",
+        "short_url": "http://t.cn/A6cF4ylD",
+        "weibo_url": "https://weibo.com/detail/4634381454410492"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=198d9b93a6b59368d29937d9b021f2fc&s=b4cd29e3c7e84b2ca1f95c3ae27b9f4d",
+        "short_url": "http://t.cn/A6cs6n6g",
+        "weibo_url": "https://weibo.com/detail/4634719654513893"
+    },
+    {
         "artist": "王一博",
         "name": "我的世界守则",
         "type": "album",
@@ -38,5 +78,29 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=8ba90731b0346f95238723ad6fdb5b21&s=58a88cc0d49e4f79aacf27534b712199",
         "short_url": "http://t.cn/A6cFn56s",
         "weibo_url": "https://weibo.com/detail/4634562363654749"
+    },
+    {
+        "artist": "王一博",
+        "name": "无感",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=893306ac29d99b96dceba852e3a4f1a2&s=fcddb44c0802408ca4a0c6f3d1d850df",
+        "short_url": "http://t.cn/A6cs6ORY",
+        "weibo_url": "https://weibo.com/detail/4634719326835573"
+    },
+    {
+        "artist": "王一博",
+        "name": "无感",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bccca5cfab0032b897c28bbe47a3821d&s=047b02996500416383784ad72443c71a",
+        "short_url": "http://t.cn/A6csxKDZ",
+        "weibo_url": "https://weibo.com/detail/4634712927376015"
+    },
+    {
+        "artist": "白敬亭",
+        "name": "不加糖 (ZERO)",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=670d1fe1f4633437f5ff370547dedc77&s=b65695f1f37d4f83a8d23e5dfb308484",
+        "short_url": "http://t.cn/A6cs0HFk",
+        "weibo_url": "https://weibo.com/detail/4634742907733699"
     }
 ]
