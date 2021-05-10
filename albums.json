@@ -11,6 +11,14 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8c14d1c8ac58e06430ab2df264796c0b&s=2cc1ef3f3c094a16a927b031ae3a0ee9",
+        "short_url": "http://t.cn/A6VhSkjY",
+        "weibo_url": "https://weibo.com/detail/4635245023854616"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d8e1cb84d8f32ccabec32189e141bd8b&s=ab861b47d16847d28126b70152a7e652",
         "short_url": "http://t.cn/A6Vh6qul",
         "weibo_url": "https://weibo.com/detail/4635231699862196"
@@ -83,14 +91,6 @@
         "artist": "王一博",
         "name": "我的世界守则",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8ba90731b0346f95238723ad6fdb5b21&s=58a88cc0d49e4f79aacf27534b712199",
-        "short_url": "http://t.cn/A6cFn56s",
-        "weibo_url": "https://weibo.com/detail/4634562363654749"
-    },
-    {
-        "artist": "王一博",
-        "name": "我的世界守则",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=aa10c1843778461fbf9ccc2671c760e5&s=3d10350d75374ee8a2e642b66ae9d23d",
         "short_url": "http://t.cn/A6cFBAkH",
         "weibo_url": "https://weibo.com/detail/4634584018847939"
@@ -102,6 +102,22 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=198d9b93a6b59368d29937d9b021f2fc&s=b4cd29e3c7e84b2ca1f95c3ae27b9f4d",
         "short_url": "http://t.cn/A6cs6n6g",
         "weibo_url": "https://weibo.com/detail/4634719654513893"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8ba90731b0346f95238723ad6fdb5b21&s=58a88cc0d49e4f79aacf27534b712199",
+        "short_url": "http://t.cn/A6cFn56s",
+        "weibo_url": "https://weibo.com/detail/4634562363654749"
+    },
+    {
+        "artist": "白敬亭",
+        "name": "不加糖 (ZERO)",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=06860ecba8de1cf5415b4dec842e52e8&s=ddca56b7b87b457292e76dea61e3db4e",
+        "short_url": "http://t.cn/A6VhoK4p",
+        "weibo_url": "https://weibo.com/detail/4635247256538099"
     },
     {
         "artist": "范丞丞",
