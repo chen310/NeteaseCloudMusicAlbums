@@ -107,14 +107,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=599ac70d3c649879fe096488baefa44e&s=1d93403aac4a4b35914369adbf6096a9",
-        "short_url": "http://t.cn/A6VP1aJW",
-        "weibo_url": "https://weibo.com/detail/4635095912418122"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=7bf60d4694333929d6e98abb0db70653&s=49094cba0cf54c0fbc6f2103d8bbaf3d",
         "short_url": "http://t.cn/A6VPBm3b",
         "weibo_url": "https://weibo.com/detail/4635098370019363"
@@ -166,37 +158,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b7834c86d66d7d9cc063f661a056e301&s=780b2efc08d7420c95d45550a2768ab1",
         "short_url": "http://t.cn/A6VPU9w6",
         "weibo_url": "https://weibo.com/detail/4635024181166407"
-    },
-    {
-        "artist": "鱼丁糸",
-        "name": "沙发里有沙发Radio",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=489f584622eb680fbd96798e801b1c50&s=a97feb110ca54a438ddf305be70d3c15",
-        "short_url": "http://t.cn/A6VhnWja",
-        "weibo_url": "https://weibo.com/detail/4635325219733906"
-    },
-    {
-        "artist": "黄新淳",
-        "name": "Missing You",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f787b7b2c6ea785f7fcd410713d0995a&s=43ecbf6534b145ebb47e1cec7e198fe4",
-        "short_url": "http://t.cn/A6VhnHsg",
-        "weibo_url": "https://weibo.com/detail/4635325634447032"
-    },
-    {
-        "artist": "黄新淳",
-        "name": "二十一",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7ef49b4fbacaa4babd1a385281683e7f&s=defb62ba10a44d9cb38c9dbf7a028d51",
-        "short_url": "http://t.cn/A6VhnY5y",
-        "weibo_url": "https://weibo.com/detail/4635325420800092"
-    },
-    {
-        "artist": "黄新淳",
-        "name": "近你环行日记",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=066e154f2593b4176067353a2ec11151&s=16aeb3489f7b4ae1b061b82c2f0a79d5",
-        "short_url": "http://t.cn/A6VhnEv2",
-        "weibo_url": "https://weibo.com/detail/4635325873525594"
     }
 ]
