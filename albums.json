@@ -75,6 +75,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c9dd3ebf6d1f12f3eabb9bae9a11a818&s=6ee816457d39451cb23fb700f0353397",
+        "short_url": "http://t.cn/A6V7CpkJ",
+        "weibo_url": "https://weibo.com/detail/4635512880759342"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=42f748f624b86b6a95c82838f58b1a48&s=716ce04fe8a249068aa9bfa56ada10d5",
         "short_url": "http://t.cn/A6VhNa3b",
         "weibo_url": "https://weibo.com/detail/4635263651808112"
@@ -161,11 +169,19 @@
     },
     {
         "artist": "朱正廷",
-        "name": "陷",
+        "name": "Chapter Z",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a198b14dcf3a59a96485e21f7f63941f&s=6c88906454c049139aaeaf53fc2f1312",
-        "short_url": "http://t.cn/A6V76SUc",
-        "weibo_url": "https://weibo.com/detail/4635466438019410"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b109075f5d30ce632d5f164b3dbf4aee&s=fa32135b81fa4649bfdc0909222c14d9",
+        "short_url": "http://t.cn/A6V7alN1",
+        "weibo_url": "https://weibo.com/detail/4635478072755188"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "The Winter Light (冬日告白)",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=cd9b6133e7666b9776f8b8b1cbc3a126&s=60b2d7f0dc944499b1c421ae28be1783",
+        "short_url": "http://t.cn/A6V7alN3",
+        "weibo_url": "https://weibo.com/detail/4635478072755188"
     },
     {
         "artist": "李润祺",
