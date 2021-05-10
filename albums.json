@@ -166,5 +166,21 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b7834c86d66d7d9cc063f661a056e301&s=780b2efc08d7420c95d45550a2768ab1",
         "short_url": "http://t.cn/A6VPU9w6",
         "weibo_url": "https://weibo.com/detail/4635024181166407"
+    },
+    {
+        "artist": "鱼丁糸",
+        "name": "沙发里有沙发Radio",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=489f584622eb680fbd96798e801b1c50&s=a97feb110ca54a438ddf305be70d3c15",
+        "short_url": "http://t.cn/A6VhnWja",
+        "weibo_url": "https://weibo.com/detail/4635325219733906"
+    },
+    {
+        "artist": "黄新淳",
+        "name": "二十一",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7ef49b4fbacaa4babd1a385281683e7f&s=defb62ba10a44d9cb38c9dbf7a028d51",
+        "short_url": "http://t.cn/A6VhnY5y",
+        "weibo_url": "https://weibo.com/detail/4635325420800092"
     }
 ]
