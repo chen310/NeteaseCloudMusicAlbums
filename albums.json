@@ -115,6 +115,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2bf04e4ae191c1913bf8394a9b8ac0af&s=5490a4fe94a545ffb88742d722b7caad",
+        "short_url": "http://t.cn/A6VhYvKo",
+        "weibo_url": "https://weibo.com/detail/4635291267106900"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=7bf60d4694333929d6e98abb0db70653&s=49094cba0cf54c0fbc6f2103d8bbaf3d",
         "short_url": "http://t.cn/A6VPBm3b",
         "weibo_url": "https://weibo.com/detail/4635098370019363"
@@ -131,17 +139,17 @@
         "artist": "王一博",
         "name": "我的世界守则",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=198d9b93a6b59368d29937d9b021f2fc&s=b4cd29e3c7e84b2ca1f95c3ae27b9f4d",
-        "short_url": "http://t.cn/A6cs6n6g",
-        "weibo_url": "https://weibo.com/detail/4634719654513893"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=aa10c1843778461fbf9ccc2671c760e5&s=3d10350d75374ee8a2e642b66ae9d23d",
+        "short_url": "http://t.cn/A6cFBAkH",
+        "weibo_url": "https://weibo.com/detail/4634584018847939"
     },
     {
         "artist": "王一博",
         "name": "我的世界守则",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=aa10c1843778461fbf9ccc2671c760e5&s=3d10350d75374ee8a2e642b66ae9d23d",
-        "short_url": "http://t.cn/A6cFBAkH",
-        "weibo_url": "https://weibo.com/detail/4634584018847939"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=198d9b93a6b59368d29937d9b021f2fc&s=b4cd29e3c7e84b2ca1f95c3ae27b9f4d",
+        "short_url": "http://t.cn/A6cs6n6g",
+        "weibo_url": "https://weibo.com/detail/4634719654513893"
     },
     {
         "artist": "范丞丞",
