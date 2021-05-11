@@ -75,14 +75,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=42f748f624b86b6a95c82838f58b1a48&s=716ce04fe8a249068aa9bfa56ada10d5",
-        "short_url": "http://t.cn/A6VhNa3b",
-        "weibo_url": "https://weibo.com/detail/4635263651808112"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a44c0fd5cf5878dc8e2c2fec344bd396&s=8036e30782904061a80fe7002e45ecfa",
         "short_url": "http://t.cn/A6VhIL1p",
         "weibo_url": "https://weibo.com/detail/4635208655048473"
@@ -150,6 +142,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=95c56ab049fe43f34ac0b42642ef71f0&s=ed751417d21d49b1944d238913ed9e5c",
         "short_url": "http://t.cn/A6VPBxAn",
         "weibo_url": "https://weibo.com/detail/4635097540594066"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e5fd0e7c79f3b4e18a96ce31ec25c60f&s=b0dc2d1ac6aa471bac237a75d0739554",
+        "short_url": "http://t.cn/A6Vza9PI",
+        "weibo_url": "https://weibo.com/detail/4635777764689343"
     },
     {
         "artist": "张哲瀚",
@@ -363,16 +363,16 @@
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=586b606d1f406406fc4e128ea1f692fd&s=b4b76a7418e84b1d8966a86ad44e5eaf",
-        "short_url": "http://t.cn/A6Vz2doZ",
-        "weibo_url": "https://weibo.com/detail/4635689092907149"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=52e063a5d288ffa713fcf7da101b2310&s=0763f48ae9194d9a873da87c5474ca6a",
+        "short_url": "http://t.cn/A6VzGLfI",
+        "weibo_url": "https://weibo.com/detail/4635713381073190"
     },
     {
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=52e063a5d288ffa713fcf7da101b2310&s=0763f48ae9194d9a873da87c5474ca6a",
-        "short_url": "http://t.cn/A6VzGLfI",
-        "weibo_url": "https://weibo.com/detail/4635713381073190"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=586b606d1f406406fc4e128ea1f692fd&s=b4b76a7418e84b1d8966a86ad44e5eaf",
+        "short_url": "http://t.cn/A6Vz2doZ",
+        "weibo_url": "https://weibo.com/detail/4635689092907149"
     }
 ]
