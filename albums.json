@@ -32,14 +32,6 @@
         "weibo_url": "https://weibo.com/detail/4635245023854616"
     },
     {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d41600016ab4c68326726480966ce4b8&s=68bd1b837a1d4ad6858ab6abd2c03365",
-        "short_url": "http://t.cn/A6Vzfzi7",
-        "weibo_url": "https://weibo.com/detail/4635740296186491"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -110,6 +102,22 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=458faad01c86d472424502731b074a61&s=b2878ce82efa4bd0888596286d94a1cf",
         "short_url": "http://t.cn/A6VzfwI4",
         "weibo_url": "https://weibo.com/detail/4635740430402597"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=32a2beab07898691cd4f8c929af13e9c&s=03f2d412666b41e39375c01c66fee689",
+        "short_url": "http://t.cn/A6VzCicq",
+        "weibo_url": "https://weibo.com/detail/4635792116812525"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4335ce093913f41eba5acfc5884050cb&s=bf37e2c332ce42ae8ae6d3dccd694b67",
+        "short_url": "http://t.cn/A6VzKdx3",
+        "weibo_url": "https://weibo.com/detail/4635789159567211"
     },
     {
         "artist": "张哲瀚",
@@ -302,6 +310,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=bdc5b8c29fe13408fb75718498085665&s=ae50ee494d264c95b6646c1888699cf2",
         "short_url": "http://t.cn/A6VzUxPX",
         "weibo_url": "https://weibo.com/detail/4635700681771695"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a6a32f5f01788819e7d212459c0ec94f&s=9598414e82e04d28a2b478d3b9fac9be",
+        "short_url": "http://t.cn/A6VzNU76",
+        "weibo_url": "https://weibo.com/detail/4635793627289290"
     },
     {
         "artist": "李润祺",
