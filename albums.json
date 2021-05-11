@@ -32,6 +32,14 @@
         "weibo_url": "https://weibo.com/detail/4635245023854616"
     },
     {
+        "artist": "周深",
+        "name": "化身孤岛的鲸",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=a14cb40e6612a8881d73e7b737b797c3&s=fa594f4d97de4fa0947a331cfe349796",
+        "short_url": "http://t.cn/A6VzArcK",
+        "weibo_url": "https://weibo.com/detail/4635684364879440"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -310,14 +318,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=371ada58e50861758241bf6145f3fb31&s=fab1546002fb4735a1494ad1d82940e1",
         "short_url": "http://t.cn/A6V7AYqi",
         "weibo_url": "https://weibo.com/detail/4635423555195460"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3eb9e2194b615e0d6c351ea098230200&s=f2fb893cb0f64b7483a84186909a4b8c",
-        "short_url": "http://t.cn/A6VvTQuH",
-        "weibo_url": "https://weibo.com/detail/4634958599554007"
     },
     {
         "artist": "范丞丞",
