@@ -99,14 +99,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=06eec503d81d6693e2c91c92f8104f0a&s=feb5dd39da0642a98ee5230cd5bb26ad",
-        "short_url": "http://t.cn/A6VzyjFx",
-        "weibo_url": "https://weibo.com/detail/4635697493054127"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=4390cdec7e1c5cb157c6afee4a7a4349&s=2fe4508c435d48f5949efb70cf0845f0",
         "short_url": "http://t.cn/A6V76Pwx",
         "weibo_url": "https://weibo.com/detail/4635467095477341"
@@ -118,6 +110,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=06add68fe916ac189e7add95b735e527&s=f8d8fe95579241f2acd0c11c4f571434",
         "short_url": "http://t.cn/A6V7mC3M",
         "weibo_url": "https://weibo.com/detail/4635597425871823"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=06eec503d81d6693e2c91c92f8104f0a&s=feb5dd39da0642a98ee5230cd5bb26ad",
+        "short_url": "http://t.cn/A6VzyjFx",
+        "weibo_url": "https://weibo.com/detail/4635697493054127"
     },
     {
         "artist": "张哲瀚",
@@ -350,5 +350,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=586b606d1f406406fc4e128ea1f692fd&s=b4b76a7418e84b1d8966a86ad44e5eaf",
         "short_url": "http://t.cn/A6Vz2doZ",
         "weibo_url": "https://weibo.com/detail/4635689092907149"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=52e063a5d288ffa713fcf7da101b2310&s=0763f48ae9194d9a873da87c5474ca6a",
+        "short_url": "http://t.cn/A6VzGLfI",
+        "weibo_url": "https://weibo.com/detail/4635713381073190"
     }
 ]
