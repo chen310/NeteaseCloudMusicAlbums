@@ -1,5 +1,13 @@
 [
     {
+        "artist": "(G)I-DLE",
+        "name": "i'M THE TREND",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e9786750ca7a625e6f4473c0ce14e15b&s=f4d383953fe94baaaa47d2e651aed1d6",
+        "short_url": "http://t.cn/A6VzGWNB",
+        "weibo_url": "https://weibo.com/detail/4635715452800548"
+    },
+    {
         "artist": "吴宣仪",
         "name": "25",
         "type": "album",
@@ -115,14 +123,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=06eec503d81d6693e2c91c92f8104f0a&s=feb5dd39da0642a98ee5230cd5bb26ad",
-        "short_url": "http://t.cn/A6VzyjFx",
-        "weibo_url": "https://weibo.com/detail/4635697493054127"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=396af9f7423ed1f251b90ee847db8288&s=f43d65228ceb41db93a339b70e566214",
         "short_url": "http://t.cn/A6V739tA",
         "weibo_url": "https://weibo.com/detail/4635605033813422"
@@ -134,6 +134,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=95c56ab049fe43f34ac0b42642ef71f0&s=ed751417d21d49b1944d238913ed9e5c",
         "short_url": "http://t.cn/A6VPBxAn",
         "weibo_url": "https://weibo.com/detail/4635097540594066"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=06eec503d81d6693e2c91c92f8104f0a&s=feb5dd39da0642a98ee5230cd5bb26ad",
+        "short_url": "http://t.cn/A6VzyjFx",
+        "weibo_url": "https://weibo.com/detail/4635697493054127"
     },
     {
         "artist": "张哲瀚",
