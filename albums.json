@@ -1,13 +1,5 @@
 [
     {
-        "artist": "(G)I-DLE",
-        "name": "i'M THE TREND",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e9786750ca7a625e6f4473c0ce14e15b&s=f4d383953fe94baaaa47d2e651aed1d6",
-        "short_url": "http://t.cn/A6VzGWNB",
-        "weibo_url": "https://weibo.com/detail/4635715452800548"
-    },
-    {
         "artist": "吴宣仪",
         "name": "25",
         "type": "album",
@@ -102,6 +94,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=88cef2bd72f48fcc2244229db4983b3e&s=b85c2bfa84f040938b280b54f96776f0",
         "short_url": "http://t.cn/A6Vh9he4",
         "weibo_url": "https://weibo.com/detail/4635253451002191"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=57e75fbf258f08bcc73860a902fc0235&s=a5df0557ae3a45f090d513730f2b31f1",
+        "short_url": "http://t.cn/A6VzcsTN",
+        "weibo_url": "https://weibo.com/detail/4635735322265809"
     },
     {
         "artist": "张哲瀚",
