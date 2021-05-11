@@ -243,6 +243,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4ff798c651a8402d8e4f638f41c16628&s=cddfd45849c04ffb8a298ee7a2511a18",
+        "short_url": "http://t.cn/A6VzzmNf",
+        "weibo_url": "https://weibo.com/detail/4635671598205567"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=202a94733a833af2f47576cdb705ebca&s=31972d446bea4b13bf1e8f75700b14fa",
         "short_url": "http://t.cn/A6V7k3kJ",
         "weibo_url": "https://weibo.com/detail/4635638839906677"
@@ -272,6 +280,14 @@
         "weibo_url": "https://weibo.com/detail/4635436956518915"
     },
     {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=d22ac8780e976b59dbf5700d8ec0763e&s=0ce5c8efdc794f93871c43861ac65792",
+        "short_url": "http://t.cn/A6Vzzu37",
+        "weibo_url": "https://weibo.com/detail/4635671698604999"
+    },
+    {
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
@@ -294,14 +310,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=371ada58e50861758241bf6145f3fb31&s=fab1546002fb4735a1494ad1d82940e1",
         "short_url": "http://t.cn/A6V7AYqi",
         "weibo_url": "https://weibo.com/detail/4635423555195460"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4f3ffc0fc8f17025728bb5394a9714b2&s=7302ae564d824c3d9d82bf17a25ce6d2",
-        "short_url": "http://t.cn/A6VvpusT",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
         "artist": "范丞丞",
