@@ -195,9 +195,25 @@
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8081593a7ed99d23c2a12afe714c92c0&s=b7aac39f0fe54fbc96352fa0678d20ae",
+        "short_url": "http://t.cn/A6VZjbyb",
+        "weibo_url": "https://weibo.com/detail/4636078008440443"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b109075f5d30ce632d5f164b3dbf4aee&s=fa32135b81fa4649bfdc0909222c14d9",
         "short_url": "http://t.cn/A6V7alN1",
         "weibo_url": "https://weibo.com/detail/4635480899715497"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "The Winter Light (冬日告白)",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4aec1566be28344ec10e6aa271878512&s=cd3595a85cb14741a64a07f1d2a7b4d5",
+        "short_url": "http://t.cn/A6VZjbyy",
+        "weibo_url": "https://weibo.com/detail/4636078008440443"
     },
     {
         "artist": "朱正廷",
