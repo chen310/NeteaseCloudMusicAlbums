@@ -75,14 +75,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4390cdec7e1c5cb157c6afee4a7a4349&s=2fe4508c435d48f5949efb70cf0845f0",
-        "short_url": "http://t.cn/A6V76Pwx",
-        "weibo_url": "https://weibo.com/detail/4635467095477341"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=41362966af20db041ba62ffbde89b3dc&s=052c1a1695c04cefac71f8ae2ed958ce",
         "short_url": "http://t.cn/A6Vzj4h4",
         "weibo_url": "https://weibo.com/detail/4635805462567904"
@@ -304,6 +296,14 @@
         "weibo_url": "https://weibo.com/detail/4635671698604999"
     },
     {
+        "artist": "李鑫一",
+        "name": "失序抵抗",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9f22a32a8627df8c67c7215848394eef&s=e46afd24a58f4ddb833f6e502a6831da",
+        "short_url": "http://t.cn/A6VwbqD3",
+        "weibo_url": "https://weibo.com/detail/4636193667156437"
+    },
+    {
         "artist": "王一博",
         "name": "无感",
         "type": "album",
@@ -339,8 +339,8 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4f9bcf5eadeebc92947e349a1005da27&s=0ba7e33aa24c451989642de9da15e26d",
-        "short_url": "http://t.cn/A6VwyY25",
-        "weibo_url": "https://weibo.com/detail/4636186277315980"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=968ee7629cae807643d0d694acd8773f&s=bdde9290438e4af5869aac1379c19211",
+        "short_url": "http://t.cn/A6Vw4r1q",
+        "weibo_url": "https://weibo.com/detail/4636192333103792"
     }
 ]
