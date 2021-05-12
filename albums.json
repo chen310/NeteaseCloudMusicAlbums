@@ -306,14 +306,6 @@
     {
         "artist": "李润祺",
         "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=18c471a65e41e7d210d562fcd3a234b3&s=6ff70b09f17143b1aa7898369dd0bdae",
-        "short_url": "http://t.cn/A6V75XId",
-        "weibo_url": "https://weibo.com/detail/4635442227452194"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
         "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=d22ac8780e976b59dbf5700d8ec0763e&s=0ce5c8efdc794f93871c43861ac65792",
         "short_url": "http://t.cn/A6Vzzu37",
@@ -325,6 +317,14 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=81adaf95733d09ff771aa7e888cedb80&s=ed4c42f6779e485586cfdd7e3f229a8e",
         "short_url": "http://t.cn/A6Vz1Ich",
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=23371059897067dd61fe689fbdad322e&s=5848277626fc4389bb47d06d537e658e",
+        "short_url": "http://t.cn/A6VwvsRm",
         "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
