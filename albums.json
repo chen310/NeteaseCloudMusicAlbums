@@ -155,14 +155,6 @@
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b109075f5d30ce632d5f164b3dbf4aee&s=fa32135b81fa4649bfdc0909222c14d9",
-        "short_url": "http://t.cn/A6V7alN1",
-        "weibo_url": "https://weibo.com/detail/4635480899715497"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "Chapter Z",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8081593a7ed99d23c2a12afe714c92c0&s=b7aac39f0fe54fbc96352fa0678d20ae",
         "short_url": "http://t.cn/A6VZjbyb",
         "weibo_url": "https://weibo.com/detail/4636127858002710"
@@ -174,14 +166,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=94fa724b72de8814bdfcce8b36d3b2e3&s=9a8065ca2d7d4f0cbf16d39e4335a739",
         "short_url": "http://t.cn/A6VZmv4S",
         "weibo_url": "https://weibo.com/detail/4636121671405460"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "The Winter Light (冬日告白)",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=cd9b6133e7666b9776f8b8b1cbc3a126&s=60b2d7f0dc944499b1c421ae28be1783",
-        "short_url": "http://t.cn/A6V7alN3",
-        "weibo_url": "https://weibo.com/detail/4635480899715497"
     },
     {
         "artist": "朱正廷",
@@ -280,14 +264,6 @@
         "weibo_url": "https://weibo.com/detail/4635671698604999"
     },
     {
-        "artist": "李鑫一",
-        "name": "失序抵抗",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9f22a32a8627df8c67c7215848394eef&s=e46afd24a58f4ddb833f6e502a6831da",
-        "short_url": "http://t.cn/A6VwbqD3",
-        "weibo_url": "https://weibo.com/detail/4636193667156437"
-    },
-    {
         "artist": "王一博",
         "name": "无感",
         "type": "album",
@@ -318,13 +294,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=586b606d1f406406fc4e128ea1f692fd&s=b4b76a7418e84b1d8966a86ad44e5eaf",
         "short_url": "http://t.cn/A6Vz2doZ",
         "weibo_url": "https://weibo.com/detail/4635689092907149"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=968ee7629cae807643d0d694acd8773f&s=bdde9290438e4af5869aac1379c19211",
-        "short_url": "http://t.cn/A6Vw4r1q",
-        "weibo_url": "https://weibo.com/detail/4636192333103792"
     }
 ]
