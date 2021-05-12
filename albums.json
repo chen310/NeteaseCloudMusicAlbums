@@ -1,19 +1,11 @@
 [
     {
-        "artist": "吴宣仪",
-        "name": "25",
+        "artist": "华晨宇",
+        "name": "好想爱这个世界啊",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e97cb85e07d833f9cf1bd45cc69acf6c&s=fd9b18edc5724b58972c2a1d2b9da6c2",
-        "short_url": "http://t.cn/A6Vhsa9p",
-        "weibo_url": "https://weibo.com/detail/4635386901173265"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a066048685395fe6220160515665c6fc&s=053915afcbb0450e8b498ddf07d92b5c",
-        "short_url": "http://t.cn/A6Vhsa90",
-        "weibo_url": "https://weibo.com/detail/4635386901173265"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=46c7f13336c63a562eda9dcca8ad9538&s=76045a9ce4cf403787ac7bc9f7bde3a6",
+        "short_url": "http://t.cn/A6VZ8gGw",
+        "weibo_url": "https://weibo.com/detail/4636106052340938"
     },
     {
         "artist": "张哲瀚",
@@ -139,14 +131,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=17c4222f34fee3269fba8958d9d6253d&s=a6b68c9f693e40a999adf3adba1d6e90",
-        "short_url": "http://t.cn/A6VZpmk1",
-        "weibo_url": "https://weibo.com/detail/4636056983176688"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e698e0a49d05d979f8e5a1122c4815e9&s=efe6d2dcf066462c89f099cf25f58ad8",
         "short_url": "http://t.cn/A6V7nWNy",
         "weibo_url": "https://weibo.com/detail/4635593964782624"
@@ -214,6 +198,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=4aec1566be28344ec10e6aa271878512&s=cd3595a85cb14741a64a07f1d2a7b4d5",
         "short_url": "http://t.cn/A6VZjbyy",
         "weibo_url": "https://weibo.com/detail/4636078008440443"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "陷",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8a09c3acddcd5e3d0c758ae4730a9267&s=8c5b4c137d6f413c900b7cd3608398a4",
+        "short_url": "http://t.cn/A6VZRzbg",
+        "weibo_url": "https://weibo.com/detail/4636106891200453"
     },
     {
         "artist": "李润祺",
