@@ -61,7 +61,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d06c85bb2ac0278d52a5aefcb04e9542&s=6a5e7f224c2d4102894d3df1c4695a90",
         "short_url": "http://t.cn/A6VAzD74",
-        "weibo_url": "https://weibo.com/detail/4636450890712899"
+        "weibo_url": "https://weibo.com/detail/4636451788821712"
     },
     {
         "artist": "吴宣仪",
@@ -203,6 +203,14 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3715a7c3e108548a9486d4a3fe93701a&s=d9901108f8cf41b6a3cef1f60286bc74",
+        "short_url": "http://t.cn/A6VASuXk",
+        "weibo_url": "https://weibo.com/detail/4636533921679028"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=80586ee58df40fb3f5e2f653d48ae4f7&s=754764f1daa6463996f5f51968d61b3a",
         "short_url": "http://t.cn/A6VA2dvR",
         "weibo_url": "https://weibo.com/detail/4636468779943477"
@@ -245,7 +253,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=0ec4f77a2317849cbfe6235d6a60d050&s=d68fa5bd0ddd43fbb7779729a8439a01",
         "short_url": "http://t.cn/A6VAZ7hj",
-        "weibo_url": "https://weibo.com/detail/4636451428632801"
+        "weibo_url": "https://weibo.com/detail/4636453725802434"
     },
     {
         "artist": "吴宣仪",
@@ -707,14 +715,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3d31a791c699f39bf6b586e12d80b984&s=432e57d28fc24069ab6f19b38cafd443",
-        "short_url": "http://t.cn/A6VzT6uH",
-        "weibo_url": "https://weibo.com/detail/4635809888343519"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8a9ebb7263eaadd05bd825b1582d3387&s=9a357e90041f42d8832ede14c9119754",
         "short_url": "http://t.cn/A6VZQrMl",
         "weibo_url": "https://weibo.com/detail/4636100658465338"
@@ -779,6 +779,14 @@
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c021a9ad3e4e8bfc18f9e6fd0cdaf6f8&s=f352952934f447e7af8fa6047a3c1c36",
+        "short_url": "http://t.cn/A6VAKWlp",
+        "weibo_url": "https://weibo.com/detail/4636537343711297"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8081593a7ed99d23c2a12afe714c92c0&s=b7aac39f0fe54fbc96352fa0678d20ae",
         "short_url": "http://t.cn/A6VZjbyb",
         "weibo_url": "https://weibo.com/detail/4636078008440443"
@@ -824,28 +832,12 @@
         "weibo_url": "https://weibo.com/detail/4635973989699055"
     },
     {
-        "artist": "李鑫一",
-        "name": "失序抵抗",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=cc0719868f7d697a1159159f701f828c&s=09f372cda23a498c8e838bae29a9e2ef",
-        "short_url": "http://t.cn/A6VAMxBC",
-        "weibo_url": "https://weibo.com/detail/4636519362990247"
-    },
-    {
         "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=23371059897067dd61fe689fbdad322e&s=5848277626fc4389bb47d06d537e658e",
         "short_url": "http://t.cn/A6VwvsRm",
         "weibo_url": "https://weibo.com/detail/4519400655758042"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7bec850d0fe72b620f346d2abc884039&s=7a3a1b3910084df1991689896003fa40",
-        "short_url": "http://t.cn/A6VAxWHQ",
-        "weibo_url": "https://weibo.com/detail/4636521808530078"
     },
     {
         "artist": "黄明昊 (Justin)",
