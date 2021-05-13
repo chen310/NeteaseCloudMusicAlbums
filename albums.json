@@ -1,13 +1,5 @@
 [
     {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=46c7f13336c63a562eda9dcca8ad9538&s=76045a9ce4cf403787ac7bc9f7bde3a6",
-        "short_url": "http://t.cn/A6VZ8gGw",
-        "weibo_url": "https://weibo.com/detail/4636106052340938"
-    },
-    {
         "artist": "吴宣仪",
         "name": "25",
         "type": "album",
@@ -141,7 +133,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=895d47ebb92e6b2a04289c0ced18d0e6&s=8100b588729442a1a9739355b485beae",
         "short_url": "http://t.cn/A6VAhERC",
-        "weibo_url": "https://weibo.com/detail/4636440954143054"
+        "weibo_url": "https://weibo.com/detail/4636458344778879"
     },
     {
         "artist": "吴宣仪",
@@ -267,17 +259,17 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f5e2b6d5660d542a9b4b5562944f0a72&s=29082c4e5c064207acf4f5f1bcaf0028",
-        "short_url": "http://t.cn/A6VAwCcb",
-        "weibo_url": "https://weibo.com/detail/4636462173130755"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4dbf0326575adc35b4afbd9227a9d661&s=d0b24ecdb109492ebe9855a03bfda9fd",
+        "short_url": "http://t.cn/A6VAw5qT",
+        "weibo_url": "https://weibo.com/detail/4636457169588913"
     },
     {
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4dbf0326575adc35b4afbd9227a9d661&s=d0b24ecdb109492ebe9855a03bfda9fd",
-        "short_url": "http://t.cn/A6VAw5qT",
-        "weibo_url": "https://weibo.com/detail/4636457169588913"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f5e2b6d5660d542a9b4b5562944f0a72&s=29082c4e5c064207acf4f5f1bcaf0028",
+        "short_url": "http://t.cn/A6VAwCcb",
+        "weibo_url": "https://weibo.com/detail/4636462173130755"
     },
     {
         "artist": "吴宣仪",
@@ -624,14 +616,6 @@
         "weibo_url": "https://weibo.com/detail/4636487574093905"
     },
     {
-        "artist": "宋雨琦",
-        "name": "Bonnie & Clyde",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=cb1c4603ab3b22b37e59dd6763ef7731&s=5a8d56ba57d2435daa3c0d6a2970a915",
-        "short_url": "http://t.cn/A6VAGXSi",
-        "weibo_url": "https://weibo.com/detail/4636494406615244"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -779,22 +763,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e5fd0e7c79f3b4e18a96ce31ec25c60f&s=b0dc2d1ac6aa471bac237a75d0739554",
-        "short_url": "http://t.cn/A6Vza9PI",
-        "weibo_url": "https://weibo.com/detail/4635777764689343"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c656538348ffe2b60429ca4bb0d6639b&s=659ad663969c4e0388eaa0d1912bfbd5",
-        "short_url": "http://t.cn/A6VA4UIR",
-        "weibo_url": "https://weibo.com/detail/4636484470047168"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5bb412ff6dbcc67995353659755d84db&s=7f51f418eefb4dcab4e8c35dceef60a0",
         "short_url": "http://t.cn/A6VAwYIw",
         "weibo_url": "https://weibo.com/detail/4636458855958356"
@@ -806,14 +774,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=6c6be9680bc8afe5def22e7c4b35cbac&s=acb383491c114e63b892a1d0db656402",
         "short_url": "http://t.cn/A6VZAMT1",
         "weibo_url": "https://weibo.com/detail/4635934211442589"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4e957f2a9a8537c858d8808545dba8d8&s=a5f9e6bde33943beb1190baaf6f9e344",
-        "short_url": "http://t.cn/A6VAG37Y",
-        "weibo_url": "https://weibo.com/detail/4636496117892268"
     },
     {
         "artist": "朱正廷",
@@ -854,6 +814,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=21ef8027fb408cb68f76cc45abbf90a8&s=f3d313bd9cec42ce998c3c317b90d94b",
         "short_url": "http://t.cn/A6VZtgqs",
         "weibo_url": "https://weibo.com/detail/4635974992397355"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=46345d8f6a25851046614f66bc3944a4&s=d1e1634cc2a648c0974fdf1ef24b4c20",
+        "short_url": "http://t.cn/A6VA5aak",
+        "weibo_url": "https://weibo.com/detail/4636502958539052"
     },
     {
         "artist": "李润祺",
