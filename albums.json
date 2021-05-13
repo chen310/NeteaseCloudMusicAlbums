@@ -152,14 +152,6 @@
         "weibo_url": "https://weibo.com/detail/4635934211442589"
     },
     {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=388d08a075a1b88154009deba6a965ee&s=f43a72854db64b60b759822cfaa0a3b2",
-        "short_url": "http://t.cn/A6VzIci8",
-        "weibo_url": "https://weibo.com/detail/4635745719159195"
-    },
-    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
@@ -251,17 +243,17 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e87026ac69b4d4d4d1d70c6eac8187c3&s=507c0e74643a4eb09b953dc1ca1080e1",
-        "short_url": "http://t.cn/A6VzPMAH",
-        "weibo_url": "https://weibo.com/detail/4635694162514940"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4ff798c651a8402d8e4f638f41c16628&s=cddfd45849c04ffb8a298ee7a2511a18",
+        "short_url": "http://t.cn/A6VzzmNf",
+        "weibo_url": "https://weibo.com/detail/4635671598205567"
     },
     {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4ff798c651a8402d8e4f638f41c16628&s=cddfd45849c04ffb8a298ee7a2511a18",
-        "short_url": "http://t.cn/A6VzzmNf",
-        "weibo_url": "https://weibo.com/detail/4635671598205567"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e87026ac69b4d4d4d1d70c6eac8187c3&s=507c0e74643a4eb09b953dc1ca1080e1",
+        "short_url": "http://t.cn/A6VzPMAH",
+        "weibo_url": "https://weibo.com/detail/4635694162514940"
     },
     {
         "artist": "李润祺",
@@ -286,13 +278,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=52e063a5d288ffa713fcf7da101b2310&s=0763f48ae9194d9a873da87c5474ca6a",
         "short_url": "http://t.cn/A6VzGLfI",
         "weibo_url": "https://weibo.com/detail/4635713381073190"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=586b606d1f406406fc4e128ea1f692fd&s=b4b76a7418e84b1d8966a86ad44e5eaf",
-        "short_url": "http://t.cn/A6Vz2doZ",
-        "weibo_url": "https://weibo.com/detail/4635689092907149"
     }
 ]
