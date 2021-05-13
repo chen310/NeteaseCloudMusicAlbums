@@ -619,14 +619,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=75fb02671a207f9c4ec4496ecc0e34aa&s=f8790dafd98045298afc4ea27d769940",
-        "short_url": "http://t.cn/A6Vzo1WW",
-        "weibo_url": "https://weibo.com/detail/4635786840380120"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5bdb3cefea9a29430020b5043ec7781e&s=fc0601662a5649f8aa3a3d53e617d100",
         "short_url": "http://t.cn/A6VwpbZI",
         "weibo_url": "https://weibo.com/detail/4636314710055209"
@@ -838,6 +830,22 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a6a32f5f01788819e7d212459c0ec94f&s=9598414e82e04d28a2b478d3b9fac9be",
         "short_url": "http://t.cn/A6VzNU76",
         "weibo_url": "https://weibo.com/detail/4635793627289290"
+    },
+    {
+        "artist": "李鑫一",
+        "name": "失序抵抗",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dbd6e8e02fdec1f2601ddfdeac76b3c4&s=20127305e7a94f7fa65bbdb7e9f37149",
+        "short_url": "http://t.cn/A6VAtU1e",
+        "weibo_url": "https://weibo.com/detail/4636505987352968"
+    },
+    {
+        "artist": "李鑫一",
+        "name": "失序抵抗",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dbe8b5375e33b34ba463beb4ba298cfd&s=61f60801a951494d89ed4b0226f8a3c7",
+        "short_url": "http://t.cn/A6VAtcoh",
+        "weibo_url": "https://weibo.com/detail/4636506415432699"
     },
     {
         "artist": "范丞丞",
