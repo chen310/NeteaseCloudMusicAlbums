@@ -232,14 +232,6 @@
         "weibo_url": "https://weibo.com/detail/4635793627289290"
     },
     {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=d22ac8780e976b59dbf5700d8ec0763e&s=0ce5c8efdc794f93871c43861ac65792",
-        "short_url": "http://t.cn/A6Vzzu37",
-        "weibo_url": "https://weibo.com/detail/4635671698604999"
-    },
-    {
         "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
@@ -259,8 +251,40 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9a03bf129b3499e82e354cac176d6882&s=7e5ae70b9cfe41ec8e822e5613cd0723",
+        "short_url": "http://t.cn/A6Vwe0GH",
+        "weibo_url": "https://weibo.com/detail/4636408360734561"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9bae743ba57fd15e47ae73e9d3a5f860&s=6210d1814a0a490b91153fdf09e5eca8",
         "short_url": "http://t.cn/A6VweyI2",
         "weibo_url": "https://weibo.com/detail/4636406422700783"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3c96163ba2b7ff00e6ec34a39f5fb4eb&s=9a62949ed5e94dd0a61ea97eaba57509",
+        "short_url": "http://t.cn/A6VwDIPG",
+        "weibo_url": "https://weibo.com/detail/4636411741078172"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e6d8d6f814648f930ed66eba95438a5e&s=ae16b7589b9649ff9367404c208d809c",
+        "short_url": "http://t.cn/A6Vwe3KE",
+        "weibo_url": "https://weibo.com/detail/4636409433950441"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=822e2ed460feb6c52e4c2075d2b0196b&s=8b2c723053004ae59b040a008f453521",
+        "short_url": "http://t.cn/A6VwDhuj",
+        "weibo_url": "https://weibo.com/detail/4636410386317344"
     }
 ]
