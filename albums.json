@@ -715,25 +715,9 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f7b38a94b8df59b10a28558d84883d25&s=28141b82d81f4258a19b7c3516cc6648",
-        "short_url": "http://t.cn/A6Vz0cgG",
-        "weibo_url": "https://weibo.com/detail/4635797746354105"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=235ca3ae9f19f4276baf19ca86cf5903&s=074e71592e8c450f99661910c71a3515",
         "short_url": "http://t.cn/A6VAyLzk",
         "weibo_url": "https://weibo.com/detail/4636475272200742"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=32a2beab07898691cd4f8c929af13e9c&s=03f2d412666b41e39375c01c66fee689",
-        "short_url": "http://t.cn/A6VzCicq",
-        "weibo_url": "https://weibo.com/detail/4635792116812525"
     },
     {
         "artist": "张哲瀚",
@@ -832,20 +816,12 @@
         "weibo_url": "https://weibo.com/detail/4635973989699055"
     },
     {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a6a32f5f01788819e7d212459c0ec94f&s=9598414e82e04d28a2b478d3b9fac9be",
-        "short_url": "http://t.cn/A6VzNU76",
-        "weibo_url": "https://weibo.com/detail/4635793627289290"
-    },
-    {
         "artist": "李鑫一",
         "name": "失序抵抗",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=dbd6e8e02fdec1f2601ddfdeac76b3c4&s=20127305e7a94f7fa65bbdb7e9f37149",
-        "short_url": "http://t.cn/A6VAtU1e",
-        "weibo_url": "https://weibo.com/detail/4636505987352968"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=cc0719868f7d697a1159159f701f828c&s=09f372cda23a498c8e838bae29a9e2ef",
+        "short_url": "http://t.cn/A6VAMxBC",
+        "weibo_url": "https://weibo.com/detail/4636519362990247"
     },
     {
         "artist": "范丞丞",
@@ -854,6 +830,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=23371059897067dd61fe689fbdad322e&s=5848277626fc4389bb47d06d537e658e",
         "short_url": "http://t.cn/A6VwvsRm",
         "weibo_url": "https://weibo.com/detail/4519400655758042"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7bec850d0fe72b620f346d2abc884039&s=7a3a1b3910084df1991689896003fa40",
+        "short_url": "http://t.cn/A6VAxWHQ",
+        "weibo_url": "https://weibo.com/detail/4636521808530078"
     },
     {
         "artist": "黄明昊 (Justin)",
