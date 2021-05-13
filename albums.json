@@ -13,7 +13,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5ecbe0df0e9c1b0c35e61c1e628e1f77&s=24aba0f7d0f8451891811c2527dc6c67",
         "short_url": "http://t.cn/A6VwCO1R",
-        "weibo_url": "https://weibo.com/detail/4636308172178715"
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
         "artist": "吴宣仪",
@@ -21,7 +21,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5f387050e11df1e01e115f576f3b8f53&s=a6670b19906049c6af6b7c541b77b256",
         "short_url": "http://t.cn/A6VwCjJt",
-        "weibo_url": "https://weibo.com/detail/4636308443500984"
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
         "artist": "张哲瀚",
@@ -139,14 +139,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e698e0a49d05d979f8e5a1122c4815e9&s=efe6d2dcf066462c89f099cf25f58ad8",
-        "short_url": "http://t.cn/A6V7nWNy",
-        "weibo_url": "https://weibo.com/detail/4635593964782624"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=6c6be9680bc8afe5def22e7c4b35cbac&s=acb383491c114e63b892a1d0db656402",
         "short_url": "http://t.cn/A6VZAMT1",
         "weibo_url": "https://weibo.com/detail/4635934211442589"
@@ -182,6 +174,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=94fa724b72de8814bdfcce8b36d3b2e3&s=9a8065ca2d7d4f0cbf16d39e4335a739",
         "short_url": "http://t.cn/A6VZmv4S",
         "weibo_url": "https://weibo.com/detail/4636121671405460"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "陷",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=40b15ceba4c5e214eca9436625a68e26&s=a004979bdee24c3f95fc06167d077265",
+        "short_url": "http://t.cn/A6Vw06cm",
+        "weibo_url": "https://weibo.com/detail/4636319693408852"
     },
     {
         "artist": "朱正廷",
