@@ -269,7 +269,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=0ec4f77a2317849cbfe6235d6a60d050&s=d68fa5bd0ddd43fbb7779729a8439a01",
         "short_url": "http://t.cn/A6VAZ7hj",
-        "weibo_url": "https://weibo.com/detail/4636453725802434"
+        "weibo_url": "https://weibo.com/detail/4636455299713765"
     },
     {
         "artist": "吴宣仪",
@@ -403,14 +403,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3715a7c3e108548a9486d4a3fe93701a&s=d9901108f8cf41b6a3cef1f60286bc74",
-        "short_url": "http://t.cn/A6VASuXk",
-        "weibo_url": "https://weibo.com/detail/4636533921679028"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5b5405fe886bcecf4aa7020e1003239c&s=cf8ca89aa4684b3487cc3531861c9fd8",
         "short_url": "http://t.cn/A6VAZg5r",
         "weibo_url": "https://weibo.com/detail/4636455391726925"
@@ -486,6 +478,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=fa54d589be7605b7c0a070da0b2514ac&s=01b479225cce42f3af22e97d95a3050b",
         "short_url": "http://t.cn/A6VAAbRn",
         "weibo_url": "https://weibo.com/detail/4636461422347431"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3715a7c3e108548a9486d4a3fe93701a&s=d9901108f8cf41b6a3cef1f60286bc74",
+        "short_url": "http://t.cn/A6VASuXk",
+        "weibo_url": "https://weibo.com/detail/4636533921679028"
     },
     {
         "artist": "吴宣仪",
@@ -715,14 +715,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5a0a9afa32029b05c41bd834d5d4a1dc&s=1af075c19a614c768d9874de2e466fa6",
-        "short_url": "http://t.cn/A6V2tFfb",
-        "weibo_url": "https://weibo.com/detail/4636756957462818"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8a9ebb7263eaadd05bd825b1582d3387&s=9a357e90041f42d8832ede14c9119754",
         "short_url": "http://t.cn/A6VZQrMl",
         "weibo_url": "https://weibo.com/detail/4636100658465338"
@@ -742,6 +734,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=235ca3ae9f19f4276baf19ca86cf5903&s=074e71592e8c450f99661910c71a3515",
         "short_url": "http://t.cn/A6VAyLzk",
         "weibo_url": "https://weibo.com/detail/4636475272200742"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5a0a9afa32029b05c41bd834d5d4a1dc&s=1af075c19a614c768d9874de2e466fa6",
+        "short_url": "http://t.cn/A6V2tFfb",
+        "weibo_url": "https://weibo.com/detail/4636756957462818"
     },
     {
         "artist": "张哲瀚",
