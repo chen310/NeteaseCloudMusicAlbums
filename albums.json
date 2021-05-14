@@ -315,14 +315,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3715a7c3e108548a9486d4a3fe93701a&s=d9901108f8cf41b6a3cef1f60286bc74",
-        "short_url": "http://t.cn/A6VASuXk",
-        "weibo_url": "https://weibo.com/detail/4636533921679028"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b0cc86e53764d2b4ca00f38c7cc5b386&s=7603c951061548efbefbb8313678a6ce",
         "short_url": "http://t.cn/A6VAAj8S",
         "weibo_url": "https://weibo.com/detail/4636463402583297"
@@ -334,6 +326,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=d7ff48ba177a2c43f2ef9979bf9ce77c&s=f7f07d9dad9e4387b44209ca7dd7b0bd",
         "short_url": "http://t.cn/A6VAzu8y",
         "weibo_url": "https://weibo.com/detail/4636450287782340"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3715a7c3e108548a9486d4a3fe93701a&s=d9901108f8cf41b6a3cef1f60286bc74",
+        "short_url": "http://t.cn/A6VASuXk",
+        "weibo_url": "https://weibo.com/detail/4636533921679028"
     },
     {
         "artist": "吴宣仪",
@@ -678,6 +678,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=f866912edf7d5429ed4b05e3f21c1934&s=1f584c0983634f53b32ae1bd61dc7d88",
         "short_url": "http://t.cn/A6VA4rPf",
         "weibo_url": "https://weibo.com/detail/4636487574093905"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=012f5a67516f92061b2d92ee544add70&s=7d7cbc2be7174245ad3a8a5a8793cff2",
+        "short_url": "http://t.cn/A6V2Az8T",
+        "weibo_url": "https://weibo.com/detail/4636709646502861"
     },
     {
         "artist": "张哲瀚",
