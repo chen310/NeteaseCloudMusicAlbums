@@ -147,17 +147,17 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3ef8f9e60b45c2121687b690d6e4fe5f&s=4a2a942bfd704c308ca5e5f3dc8207bf",
-        "short_url": "http://t.cn/A6VAyGp3",
-        "weibo_url": "https://weibo.com/detail/4636475713131213"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=895d47ebb92e6b2a04289c0ced18d0e6&s=8100b588729442a1a9739355b485beae",
+        "short_url": "http://t.cn/A6VAhERC",
+        "weibo_url": "https://weibo.com/detail/4636458344778879"
     },
     {
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=895d47ebb92e6b2a04289c0ced18d0e6&s=8100b588729442a1a9739355b485beae",
-        "short_url": "http://t.cn/A6VAhERC",
-        "weibo_url": "https://weibo.com/detail/4636458344778879"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3ef8f9e60b45c2121687b690d6e4fe5f&s=4a2a942bfd704c308ca5e5f3dc8207bf",
+        "short_url": "http://t.cn/A6VAyGp3",
+        "weibo_url": "https://weibo.com/detail/4636475713131213"
     },
     {
         "artist": "吴宣仪",
@@ -739,14 +739,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3be0b3ecdee08a8049c62dfe6be893bf&s=5aa62bd6320a48fc87cf57f6cfdddabf",
-        "short_url": "http://t.cn/A6V2rNfd",
-        "weibo_url": "https://weibo.com/detail/4636894958460288"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=437e409e01bf31c61e57aec58ea2a2cc&s=d0cdc168c6c54cf9844906c64fe12720",
         "short_url": "http://t.cn/A6VAvP0Z",
         "weibo_url": "https://weibo.com/detail/4636418976254307"
@@ -774,6 +766,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5bb412ff6dbcc67995353659755d84db&s=7f51f418eefb4dcab4e8c35dceef60a0",
         "short_url": "http://t.cn/A6VAwYIw",
         "weibo_url": "https://weibo.com/detail/4636458855958356"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3be0b3ecdee08a8049c62dfe6be893bf&s=5aa62bd6320a48fc87cf57f6cfdddabf",
+        "short_url": "http://t.cn/A6V2rNfd",
+        "weibo_url": "https://weibo.com/detail/4636894958460288"
     },
     {
         "artist": "朱正廷",
@@ -814,14 +814,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=967cd9366940b8992e6259c2fdb648e7&s=e8e2e29b93764d9081377aa9fc492c9b",
         "short_url": "http://t.cn/A6V20Tk9",
         "weibo_url": "https://weibo.com/detail/4636841125347481"
-    },
-    {
-        "artist": "王一博",
-        "name": "我的世界守则",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d73a2c594137cc079d5f1d6b5b172ed6&s=b72c8587de554cd0a1c8be09860bd15a",
-        "short_url": "http://t.cn/A6V2drB3",
-        "weibo_url": "https://weibo.com/detail/4636897664828784"
     },
     {
         "artist": "黄明昊 (Justin)",
