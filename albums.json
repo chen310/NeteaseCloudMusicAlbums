@@ -1,13 +1,5 @@
 [
     {
-        "artist": "吴宣仪",
-        "name": "25",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7e4e904aaff3fc3c26941cbb42c272fa&s=66017b608fab4da69bead4c285dc2afa",
-        "short_url": "http://t.cn/A6VAH98N",
-        "weibo_url": "https://weibo.com/detail/4636578553790942"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -91,14 +83,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d9a710a7b2609b6e994ee1a60e365db3&s=0ed7c8c2f2e343e4976a42b3054099ba",
-        "short_url": "http://t.cn/A6VyIPcO",
-        "weibo_url": "https://weibo.com/detail/4637280502813253"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f3be29a7f750f59d1fd857e5573b9595&s=5f1443e0cb9d4c96ae10271a12a21759",
         "short_url": "http://t.cn/A6VyvIJO",
         "weibo_url": "https://weibo.com/detail/4637233359096428"
@@ -131,17 +115,17 @@
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9bc513e53d9636e46b795dba74f476a9&s=fc050851e2ee421e940751997333107d",
-        "short_url": "http://t.cn/A6VLwXZf",
-        "weibo_url": "https://weibo.com/detail/4636942610989797"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d4a0d2839ae1f83fd36d7d3387ba190e&s=8249f733e9a840d0bf9156f1506c9c24",
+        "short_url": "http://t.cn/A6VLDdYa",
+        "weibo_url": "https://weibo.com/detail/4637218515193131"
     },
     {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d4a0d2839ae1f83fd36d7d3387ba190e&s=8249f733e9a840d0bf9156f1506c9c24",
-        "short_url": "http://t.cn/A6VLDdYa",
-        "weibo_url": "https://weibo.com/detail/4637218515193131"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9bc513e53d9636e46b795dba74f476a9&s=fc050851e2ee421e940751997333107d",
+        "short_url": "http://t.cn/A6VLwXZf",
+        "weibo_url": "https://weibo.com/detail/4636942610989797"
     },
     {
         "artist": "朱正廷",
@@ -166,14 +150,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e20aff2ec707be40de6af217cd92b673&s=dc6f37fc45f14bcbbdf4ac8a27cacfc4",
         "short_url": "http://t.cn/A6VL7vMz",
         "weibo_url": "https://weibo.com/detail/4636922645842191"
-    },
-    {
-        "artist": "王一博",
-        "name": "我的世界守则",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=acd268ba1fe81030d9b722681b5e7cca&s=ac0335b0c44b42779b7676922dea08ae",
-        "short_url": "http://t.cn/A6VLnI0M",
-        "weibo_url": "https://weibo.com/detail/4637168377268271"
     },
     {
         "artist": "范丞丞",
