@@ -91,6 +91,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d9a710a7b2609b6e994ee1a60e365db3&s=0ed7c8c2f2e343e4976a42b3054099ba",
+        "short_url": "http://t.cn/A6VyIPcO",
+        "weibo_url": "https://weibo.com/detail/4637280502813253"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f3be29a7f750f59d1fd857e5573b9595&s=5f1443e0cb9d4c96ae10271a12a21759",
         "short_url": "http://t.cn/A6VyvIJO",
         "weibo_url": "https://weibo.com/detail/4637233359096428"
@@ -158,14 +166,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e20aff2ec707be40de6af217cd92b673&s=dc6f37fc45f14bcbbdf4ac8a27cacfc4",
         "short_url": "http://t.cn/A6VL7vMz",
         "weibo_url": "https://weibo.com/detail/4636922645842191"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=33b962aaf334d4cc454e31ebfe89e031&s=8afcd17f4627430b98517e0d1bb5eac7",
-        "short_url": "http://t.cn/A6VyVH2I",
-        "weibo_url": "https://weibo.com/detail/4637276473131568"
     },
     {
         "artist": "王一博",
