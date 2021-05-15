@@ -75,14 +75,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=86317ab1784d14cf1cb5392db1d461c1&s=657d7f461b644db98b2be0b11d62af57",
-        "short_url": "http://t.cn/A6VyZxwy",
-        "weibo_url": "https://weibo.com/detail/4637245351137277"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9d9c996ebcb79e2d5dfac5e71c6c70e2&s=1785594ac6154d6a85fb0d417c4802ff",
         "short_url": "http://t.cn/A6V2SPhH",
         "weibo_url": "https://weibo.com/detail/4636805426578567"
@@ -91,9 +83,9 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=188e7006f9b2c54cd1c3b866476df189&s=81589efa7bf24537a134f9c89698009b",
-        "short_url": "http://t.cn/A6VLN3ej",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=86317ab1784d14cf1cb5392db1d461c1&s=657d7f461b644db98b2be0b11d62af57",
+        "short_url": "http://t.cn/A6VyZxwy",
+        "weibo_url": "https://weibo.com/detail/4637245351137277"
     },
     {
         "artist": "张哲瀚",
@@ -115,6 +107,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=188e7006f9b2c54cd1c3b866476df189&s=81589efa7bf24537a134f9c89698009b",
+        "short_url": "http://t.cn/A6VLN3ej",
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8894941e557bae31aba286264da88684&s=e762738f24f84115a825e6f1a5213bf9",
         "short_url": "http://t.cn/A6VLhlJF",
         "weibo_url": "https://weibo.com/detail/4636921013471397"
@@ -126,14 +126,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=3726a55a77c6dbf83cd28f48d56198c3&s=34e3011b33b04aaf8ab95d21dde69199",
         "short_url": "http://t.cn/A6V2SWNI",
         "weibo_url": "https://weibo.com/detail/4636807441158012"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "Chapter Z",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c021a9ad3e4e8bfc18f9e6fd0cdaf6f8&s=f352952934f447e7af8fa6047a3c1c36",
-        "short_url": "http://t.cn/A6VAKWlp",
-        "weibo_url": "https://weibo.com/detail/4636537343711297"
     },
     {
         "artist": "朱正廷",
@@ -198,5 +190,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ce8f43e7477501f3cad48ad25a676dad&s=acb1be528a56415182dfa64128a6add9",
         "short_url": "http://t.cn/A6VLOXs8",
         "weibo_url": "https://weibo.com/detail/4637113679613453"
+    },
+    {
+        "artist": "黄新淳",
+        "name": "近你环行日记",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=08dce1a19031c506dc8274f936da1b5f&s=5fff476bc56649f997c1b084dda3195e",
+        "short_url": "http://t.cn/A6VybtVC",
+        "weibo_url": "https://weibo.com/detail/4637261059066462"
     }
 ]
