@@ -211,14 +211,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a46b0c41473be617530071291c1dbb2e&s=fc20ba2442bb450d845cdd7965d62812",
-        "short_url": "http://t.cn/A6VA7kTl",
-        "weibo_url": "https://weibo.com/detail/4636455350309510"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=72332bde71b769f91c685ec963010258&s=ae20a4ec233c46b79efcb0a869ae0bc7",
         "short_url": "http://t.cn/A6VAZCTf",
         "weibo_url": "https://weibo.com/detail/4636453767742063"
@@ -246,14 +238,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=57ca6f1e478d7c424186b76f6cd3391f&s=f8b1743949104e5297e9dcbe27745548",
         "short_url": "http://t.cn/A6VA2dXj",
         "weibo_url": "https://weibo.com/detail/4636469144060857"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ff0a333c74f876e480231dd4dbff99e9&s=cdf9732856294a6cb85e0580ac445429",
-        "short_url": "http://t.cn/A6VAzMKO",
-        "weibo_url": "https://weibo.com/detail/4636454933758549"
     },
     {
         "artist": "吴宣仪",
@@ -507,14 +491,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0406eca8e90768667d9c655595e3f842&s=a86fd12813df4212b7d69e455eec023c",
-        "short_url": "http://t.cn/A6VAztMR",
-        "weibo_url": "https://weibo.com/detail/4636450178730614"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=0794f9e617888e3a9c53911f8cb4a05a&s=c6fda8338a43479c8986adaef6f32ac3",
         "short_url": "http://t.cn/A6VAwaYo",
         "weibo_url": "https://weibo.com/detail/4636457929542906"
@@ -542,14 +518,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=4ffb1947fdb6ce8bacfc5a93b02ce469&s=e53c8510e1984d7c971c58891b110f7c",
         "short_url": "http://t.cn/A6VAxDos",
         "weibo_url": "https://weibo.com/detail/4636522420635928"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5354d8945391b48674f0084a33921ca3&s=afda78b7d4954745a9b4ea7ff1811024",
-        "short_url": "http://t.cn/A6VA7EHX",
-        "weibo_url": "https://weibo.com/detail/4636445534591133"
     },
     {
         "artist": "吴宣仪",
@@ -590,14 +558,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ceecf97cf9cfccbc9376643f3d9e3140&s=7b48d9be20214fe1b3e68fa0a9fb9302",
         "short_url": "http://t.cn/A6VAz3c1",
         "weibo_url": "https://weibo.com/detail/4636451046165614"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ee171eb56fe17727d6af17374cb95e20&s=0fd305584caf47dab6596119bc8616ed",
-        "short_url": "http://t.cn/A6VA7O53",
-        "weibo_url": "https://weibo.com/detail/4636444775420054"
     },
     {
         "artist": "吴宣仪",
@@ -766,6 +726,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=967cd9366940b8992e6259c2fdb648e7&s=e8e2e29b93764d9081377aa9fc492c9b",
         "short_url": "http://t.cn/A6V20Tk9",
         "weibo_url": "https://weibo.com/detail/4636841125347481"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=acd268ba1fe81030d9b722681b5e7cca&s=ac0335b0c44b42779b7676922dea08ae",
+        "short_url": "http://t.cn/A6VLnI0M",
+        "weibo_url": "https://weibo.com/detail/4637168377268271"
     },
     {
         "artist": "范丞丞",
