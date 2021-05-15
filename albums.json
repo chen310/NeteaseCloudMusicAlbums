@@ -1,5 +1,13 @@
 [
     {
+        "artist": "BTS (防弹少年团)",
+        "name": "Dynamite (DayTime Version)",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d56d08bee364c7e36613761eb0115c3e&s=198575fcf5624dfbaea465875dce5c95",
+        "short_url": "http://t.cn/A6VL0gDp",
+        "weibo_url": "https://weibo.com/detail/4637228560551777"
+    },
+    {
         "artist": "吴宣仪",
         "name": "25",
         "type": "album",
@@ -22,14 +30,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=67735736dbf71b4b3cde2657bbd8318f&s=c9a3ffda122b4e1bb3b817dba68d464a",
         "short_url": "http://t.cn/A6VAVGoT",
         "weibo_url": "https://weibo.com/detail/4636513244283252"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9b6df91b3c922fec0596829df31ef7eb&s=bf0d3803ffe741efaf990d94f5695fb4",
-        "short_url": "http://t.cn/A6VAqxnI",
-        "weibo_url": "https://weibo.com/detail/4636498555048129"
     },
     {
         "artist": "吴宣仪",
@@ -139,6 +139,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=20e6b3bcf000930195d482b95cc1f72c&s=f76370cfaa604525848f38f2d3d70e59",
+        "short_url": "http://t.cn/A6VLsG26",
+        "weibo_url": "https://weibo.com/detail/4637228560810314"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=70742e2782963e100aef59bc00794b61&s=edf67ed012c24115a8f393100bf30d1d",
         "short_url": "http://t.cn/A6V28A83",
         "weibo_url": "https://weibo.com/detail/4636880182449763"
@@ -171,17 +179,17 @@
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d4a0d2839ae1f83fd36d7d3387ba190e&s=8249f733e9a840d0bf9156f1506c9c24",
-        "short_url": "http://t.cn/A6VLDdYa",
-        "weibo_url": "https://weibo.com/detail/4637218515193131"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9bc513e53d9636e46b795dba74f476a9&s=fc050851e2ee421e940751997333107d",
+        "short_url": "http://t.cn/A6VLwXZf",
+        "weibo_url": "https://weibo.com/detail/4636942610989797"
     },
     {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9bc513e53d9636e46b795dba74f476a9&s=fc050851e2ee421e940751997333107d",
-        "short_url": "http://t.cn/A6VLwXZf",
-        "weibo_url": "https://weibo.com/detail/4636942610989797"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d4a0d2839ae1f83fd36d7d3387ba190e&s=8249f733e9a840d0bf9156f1506c9c24",
+        "short_url": "http://t.cn/A6VLDdYa",
+        "weibo_url": "https://weibo.com/detail/4637218515193131"
     },
     {
         "artist": "朱正廷",
@@ -198,14 +206,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=2a33535af1d2423eeecd0e1d05a77184&s=ddb3b7d86b82415b80b02488d9462702",
         "short_url": "http://t.cn/A6VLgrtq",
         "weibo_url": "https://weibo.com/detail/4637209548295636"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=46345d8f6a25851046614f66bc3944a4&s=d1e1634cc2a648c0974fdf1ef24b4c20",
-        "short_url": "http://t.cn/A6VA5aak",
-        "weibo_url": "https://weibo.com/detail/4636502958539052"
     },
     {
         "artist": "李润祺",
@@ -246,13 +246,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ce8f43e7477501f3cad48ad25a676dad&s=acb1be528a56415182dfa64128a6add9",
         "short_url": "http://t.cn/A6VLOXs8",
         "weibo_url": "https://weibo.com/detail/4637113679613453"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a43b179ad9983c88588db1e080dc4bd6&s=865bc851de354ef4b93e4ff2c15956db",
-        "short_url": "http://t.cn/A6VLDEPC",
-        "weibo_url": "https://weibo.com/detail/4637217933234411"
     }
 ]
