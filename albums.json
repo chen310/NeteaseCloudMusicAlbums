@@ -27,14 +27,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=72a75a6f341319dd09974071b44fc511&s=fee43728db46466fa6db98808e4c6240",
-        "short_url": "http://t.cn/A6VAG50D",
-        "weibo_url": "https://weibo.com/detail/4636493610224433"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9b6df91b3c922fec0596829df31ef7eb&s=bf0d3803ffe741efaf990d94f5695fb4",
         "short_url": "http://t.cn/A6VAqxnI",
         "weibo_url": "https://weibo.com/detail/4636498555048129"
@@ -46,14 +38,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a46d1b3a6075e6c8bcab6a1ad356e6f5&s=368fa64afb004562b113bd426d995a5f",
         "short_url": "http://t.cn/A6VAVF83",
         "weibo_url": "https://weibo.com/detail/4636514653048062"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=081b58bf4cfbe8a0a8976d8bfa208a92&s=7ea7fe6c573647cebd7dc1119e15a509",
-        "short_url": "http://t.cn/A6VAqLQt",
-        "weibo_url": "https://weibo.com/detail/4636497598743010"
     },
     {
         "artist": "吴宣仪",
@@ -110,6 +94,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ae655547d65e3bba2876edc387977775&s=59008dc2260e4d5ab7cd10be98e969ec",
         "short_url": "http://t.cn/A6VLvdtn",
         "weibo_url": "https://weibo.com/detail/4636914571544082"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dd16f2b8e397c3d5b0078d7c788a21e8&s=08c5b9e6d2594c90af1c05b1766c8abd",
+        "short_url": "http://t.cn/A6VLkWgv",
+        "weibo_url": "https://weibo.com/detail/4637221694475497"
     },
     {
         "artist": "张哲瀚",
@@ -238,6 +230,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=acd268ba1fe81030d9b722681b5e7cca&s=ac0335b0c44b42779b7676922dea08ae",
         "short_url": "http://t.cn/A6VLnI0M",
         "weibo_url": "https://weibo.com/detail/4637168377268271"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=329dc05a2f2019086639611b8d34ac14&s=de2a9213b1dc4cbb80ff3a978bd41a4a",
+        "short_url": "http://t.cn/A6VLDsB1",
+        "weibo_url": "https://weibo.com/detail/4637218968179402"
     },
     {
         "artist": "范丞丞",
