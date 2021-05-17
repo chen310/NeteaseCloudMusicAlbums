@@ -83,6 +83,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=abdd7cb1d6f4b2be87d8273cdc8d0ec7&s=2e113d5556e0438b98bdaf8764f4a5fe",
+        "short_url": "http://t.cn/A6V45bTd",
+        "weibo_url": "https://weibo.com/detail/4637836692688279"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d1a6f73e3e984a6029fe5a5c3c6ddd92&s=cb2e9266dc144418ae2a16188ff7771f",
         "short_url": "http://t.cn/A6VUvBsr",
         "weibo_url": "https://weibo.com/detail/4637502813505876"
@@ -174,14 +182,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=574614da8bec8ef94f8d16b102f5a6bf&s=6d5bb801eca24a22b36118d35c496d6a",
         "short_url": "http://t.cn/A6VyUam6",
         "weibo_url": "https://weibo.com/detail/4637257523533218"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ce8f43e7477501f3cad48ad25a676dad&s=acb1be528a56415182dfa64128a6add9",
-        "short_url": "http://t.cn/A6VLOXs8",
-        "weibo_url": "https://weibo.com/detail/4637113679613453"
     },
     {
         "artist": "鞠婧祎",
