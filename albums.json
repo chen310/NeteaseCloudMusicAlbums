@@ -1,5 +1,21 @@
 [
     {
+        "artist": "华晨宇",
+        "name": "好想爱这个世界啊",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2522b70651c899084d3c051326175e65&s=34116be5f40848e6b2ef9141d48d8dae",
+        "short_url": "http://t.cn/A6V4l8IR",
+        "weibo_url": "https://weibo.com/detail/4637945485594173"
+    },
+    {
+        "artist": "华晨宇",
+        "name": "新世界NEW WORLD",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9976361e8e40477d6a51526c1618e4ed&s=6ef21a67b3584ade8996b0b4030912f4",
+        "short_url": "http://t.cn/A6V4jzpt",
+        "weibo_url": "https://weibo.com/detail/4637947020708513"
+    },
+    {
         "artist": "周深",
         "name": "化身孤岛的鲸",
         "type": "song",
@@ -30,6 +46,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b398b04e92357146761092ea1064516f&s=55ec1187f0eb49aa881817d28620ca01",
         "short_url": "http://t.cn/A6V4OVDU",
         "weibo_url": "https://weibo.com/detail/4637934932466010"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a474b15f4a94ee8cef1af3b48042674d&s=83fbde56dd3c4b44b134e34ee92e672c",
+        "short_url": "http://t.cn/A6V4lFtd",
+        "weibo_url": "https://weibo.com/detail/4637946550421176"
     },
     {
         "artist": "张哲瀚",
@@ -70,14 +94,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=4d30df37d1119b0c46f1ffdc2dcf4e40&s=04f7d712718342b894434c96cac2af9f",
         "short_url": "http://t.cn/A6V4CncE",
         "weibo_url": "https://weibo.com/detail/4637917202351398"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=dd16f2b8e397c3d5b0078d7c788a21e8&s=08c5b9e6d2594c90af1c05b1766c8abd",
-        "short_url": "http://t.cn/A6VLkWgv",
-        "weibo_url": "https://weibo.com/detail/4637221694475497"
     },
     {
         "artist": "张哲瀚",
@@ -139,9 +155,9 @@
         "artist": "朱正廷",
         "name": "EMPTY SPACE",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=98a101d5924c630e5d2479fd9cf0540b&s=4cd4b7cf532f451eaef6346348f4dda2",
-        "short_url": "http://t.cn/A6VLD1Mt",
-        "weibo_url": "https://weibo.com/detail/4637218277166195"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=771c66ccf1926d505cb30067ccd84268&s=15416a54ad684340836d614de4903289",
+        "short_url": "http://t.cn/A6V4lrI6",
+        "weibo_url": "https://weibo.com/detail/4637946084856933"
     },
     {
         "artist": "朱正廷",
