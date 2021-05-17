@@ -32,6 +32,14 @@
         "weibo_url": "https://weibo.com/detail/4637780484820539"
     },
     {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9cf285a5dfbc9cba8e1587f676e461bd&s=8c29263c5a434b00b1bcb8f3cd62c594",
+        "short_url": "http://t.cn/A6V49O2j",
+        "weibo_url": "https://weibo.com/detail/4637911427319459"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -192,12 +200,12 @@
         "weibo_url": "https://weibo.com/detail/4637257523533218"
     },
     {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
+        "artist": "范丞丞",
+        "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b4c1e36869b80de1a910694c63f60f75&s=25291b3e23354c94a3011fa2e058133e",
-        "short_url": "http://t.cn/A6VUAS9A",
-        "weibo_url": "https://weibo.com/detail/4637533641638836"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a6f6d6f77c984f73f33f6da0302f093c&s=2232e983c0f04343a9a444707bd8599c",
+        "short_url": "http://t.cn/A6V49Oxl",
+        "weibo_url": "https://weibo.com/detail/4637911452747390"
     },
     {
         "artist": "鞠婧祎",
@@ -214,6 +222,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=9c6f279c834aa5bea89ea94202c7345d&s=23fc891f4b934f7aa42cceedb4eb2867",
         "short_url": "http://t.cn/A6VUbb6F",
         "weibo_url": "https://weibo.com/detail/4637561195334636"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b4c1e36869b80de1a910694c63f60f75&s=25291b3e23354c94a3011fa2e058133e",
+        "short_url": "http://t.cn/A6VUAS9A",
+        "weibo_url": "https://weibo.com/detail/4637533641638836"
     },
     {
         "artist": "鞠婧祎",
