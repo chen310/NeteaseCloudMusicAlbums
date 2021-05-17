@@ -32,14 +32,6 @@
         "weibo_url": "https://weibo.com/detail/4637780484820539"
     },
     {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a474b15f4a94ee8cef1af3b48042674d&s=83fbde56dd3c4b44b134e34ee92e672c",
-        "short_url": "http://t.cn/A6V4lFtd",
-        "weibo_url": "https://weibo.com/detail/4637946550421176"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -171,14 +163,6 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=bb8b4b6402a66f65425264dd9db3b892&s=3f50141a3f19466cb43f6ee3d85acf89",
-        "short_url": "http://t.cn/A6V4NOU3",
-        "weibo_url": "https://weibo.com/detail/4637921309099296"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=94adc862ee451fbb99b81bd2d49e2ba6&s=126a6041edda4f248b14309b2b7577ec",
         "short_url": "http://t.cn/A6V40pKN",
         "weibo_url": "https://weibo.com/detail/4637931039359151"
@@ -187,9 +171,9 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=792ec26d692422393d6860c696e31975&s=8dd9372ed668460e818b046b263fadea",
-        "short_url": "http://t.cn/A6V4pWj4",
-        "weibo_url": "https://weibo.com/detail/4637926488543540"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bb8b4b6402a66f65425264dd9db3b892&s=3f50141a3f19466cb43f6ee3d85acf89",
+        "short_url": "http://t.cn/A6V4NOU3",
+        "weibo_url": "https://weibo.com/detail/4637921309099296"
     },
     {
         "artist": "范丞丞",
