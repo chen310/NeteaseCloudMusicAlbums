@@ -131,6 +131,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c0c501b57fa67b191edb5f7fec918b30&s=257142525e1e44bf82eb1793447f2f8e",
+        "short_url": "http://t.cn/A6V4DV8I",
+        "weibo_url": "https://weibo.com/detail/4637991584142959"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=2d6c751b06f13d2574c7754f284410fe&s=fb445e5acb7f4da1ba956511f6bdc1ee",
         "short_url": "http://t.cn/A6VU6O0e",
         "weibo_url": "https://weibo.com/detail/4637609227192910"
@@ -166,14 +174,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5933fae8032f825b2010598ba0cf727c&s=1ae9229f956d48c2be7c0cc83e5e6922",
         "short_url": "http://t.cn/A6V410T4",
         "weibo_url": "https://weibo.com/detail/4637980465826354"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=bb8b4b6402a66f65425264dd9db3b892&s=3f50141a3f19466cb43f6ee3d85acf89",
-        "short_url": "http://t.cn/A6V4NOU3",
-        "weibo_url": "https://weibo.com/detail/4637921309099296"
     },
     {
         "artist": "范丞丞",
@@ -251,17 +251,17 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b4c1e36869b80de1a910694c63f60f75&s=25291b3e23354c94a3011fa2e058133e",
-        "short_url": "http://t.cn/A6VUAS9A",
-        "weibo_url": "https://weibo.com/detail/4637533641638836"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9c6f279c834aa5bea89ea94202c7345d&s=23fc891f4b934f7aa42cceedb4eb2867",
+        "short_url": "http://t.cn/A6VUbb6F",
+        "weibo_url": "https://weibo.com/detail/4637561195334636"
     },
     {
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9c6f279c834aa5bea89ea94202c7345d&s=23fc891f4b934f7aa42cceedb4eb2867",
-        "short_url": "http://t.cn/A6VUbb6F",
-        "weibo_url": "https://weibo.com/detail/4637561195334636"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b4c1e36869b80de1a910694c63f60f75&s=25291b3e23354c94a3011fa2e058133e",
+        "short_url": "http://t.cn/A6VUAS9A",
+        "weibo_url": "https://weibo.com/detail/4637533641638836"
     },
     {
         "artist": "鞠婧祎",
