@@ -193,6 +193,14 @@
     },
     {
         "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=af9391dacf26ed267ddec7facc2582c5&s=b2b3ec7bfe6e4b87b5ce1e41d58d3b02",
+        "short_url": "http://t.cn/A6Vb7JWb",
+        "weibo_url": "https://weibo.com/detail/4638027886363481"
+    },
+    {
+        "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9ef3844bbf46c208be2059a66d11a608&s=bf5ec170ca76461d98c35490d068686f",
@@ -267,9 +275,9 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9c6f279c834aa5bea89ea94202c7345d&s=23fc891f4b934f7aa42cceedb4eb2867",
-        "short_url": "http://t.cn/A6VUbb6F",
-        "weibo_url": "https://weibo.com/detail/4637561195334636"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dd4aba3cd8e01d1084cf092b9ea93c97&s=80f18bf7a0b74841ba2c813832f9bec3",
+        "short_url": "http://t.cn/A6VUGpYE",
+        "weibo_url": "https://weibo.com/detail/4637568031002189"
     },
     {
         "artist": "鞠婧祎",
@@ -283,9 +291,9 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=dd4aba3cd8e01d1084cf092b9ea93c97&s=80f18bf7a0b74841ba2c813832f9bec3",
-        "short_url": "http://t.cn/A6VUGpYE",
-        "weibo_url": "https://weibo.com/detail/4637568031002189"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9c6f279c834aa5bea89ea94202c7345d&s=23fc891f4b934f7aa42cceedb4eb2867",
+        "short_url": "http://t.cn/A6VUbb6F",
+        "weibo_url": "https://weibo.com/detail/4637561195334636"
     },
     {
         "artist": "鞠婧祎",
@@ -331,14 +339,6 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f0c530f3e749a3382f01b0117042d2e2&s=e4888abc4a40469ab36a36078461b94a",
-        "short_url": "http://t.cn/A6VUApn5",
-        "weibo_url": "https://weibo.com/detail/4637534133422567"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=de9ed2015035432bb028f8781dc55def&s=85fc449d8b924046b1636a10e2daeac6",
         "short_url": "http://t.cn/A6VUwKCR",
         "weibo_url": "https://weibo.com/detail/4637529112576751"
@@ -363,17 +363,17 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=24da0a32e680fdddac25e9d9fb656091&s=6724f0c9384240168231a3afa7243e40",
-        "short_url": "http://t.cn/A6VUwUoA",
-        "weibo_url": "https://weibo.com/detail/4637527661088408"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f0c530f3e749a3382f01b0117042d2e2&s=e4888abc4a40469ab36a36078461b94a",
+        "short_url": "http://t.cn/A6VUApn5",
+        "weibo_url": "https://weibo.com/detail/4637534133422567"
     },
     {
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7004f39b5735d326551a7c3906d2b299&s=54ef15709958434abcddc4301db9e892",
-        "short_url": "http://t.cn/A6VUtOvl",
-        "weibo_url": "https://weibo.com/detail/4637581877448405"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=24da0a32e680fdddac25e9d9fb656091&s=6724f0c9384240168231a3afa7243e40",
+        "short_url": "http://t.cn/A6VUwUoA",
+        "weibo_url": "https://weibo.com/detail/4637527661088408"
     },
     {
         "artist": "鞠婧祎",
