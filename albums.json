@@ -163,6 +163,14 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5933fae8032f825b2010598ba0cf727c&s=1ae9229f956d48c2be7c0cc83e5e6922",
+        "short_url": "http://t.cn/A6V410T4",
+        "weibo_url": "https://weibo.com/detail/4637980465826354"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=bb8b4b6402a66f65425264dd9db3b892&s=3f50141a3f19466cb43f6ee3d85acf89",
         "short_url": "http://t.cn/A6V4NOU3",
         "weibo_url": "https://weibo.com/detail/4637921309099296"
@@ -189,7 +197,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a6f6d6f77c984f73f33f6da0302f093c&s=2232e983c0f04343a9a444707bd8599c",
         "short_url": "http://t.cn/A6V49Oxl",
-        "weibo_url": "https://weibo.com/detail/4637974077113449"
+        "weibo_url": "https://weibo.com/detail/4637911909406548"
     },
     {
         "artist": "范丞丞",
@@ -203,6 +211,14 @@
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=99d36e4860b522ae40a547291d905ee5&s=001180d64827484b85d84379158ed9f0",
+        "short_url": "http://t.cn/A6V4BZae",
+        "weibo_url": "https://weibo.com/detail/4637981035732479"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=746efbcb908f3f16079c68f8da70433f&s=67c4de45692b42ba94f981f807902ce0",
         "short_url": "http://t.cn/A6V4CtVq",
         "weibo_url": "https://weibo.com/detail/4637914758122263"
@@ -211,9 +227,25 @@
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6553a624d67f7fdb3c9519bafd54b88a&s=63ac3252e3224adb8b01b2533239e189",
+        "short_url": "http://t.cn/A6V43U7K",
+        "weibo_url": "https://weibo.com/detail/4637977269768448"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=35e4a30706cf4ef2efd34157737b6263&s=efd38e572bef4c2a9b0e15a2e1ce5a8a",
         "short_url": "http://t.cn/A6V4OW6j",
         "weibo_url": "https://weibo.com/detail/4637935708406848"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=236945dc285b870d7bd163d53fb8f35d&s=3da552a576264a89a610e7dc13a1440e",
+        "short_url": "http://t.cn/A6V41LxY",
+        "weibo_url": "https://weibo.com/detail/4637979182108210"
     },
     {
         "artist": "范丞丞",
@@ -323,17 +355,17 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7004f39b5735d326551a7c3906d2b299&s=54ef15709958434abcddc4301db9e892",
-        "short_url": "http://t.cn/A6VUtOvl",
-        "weibo_url": "https://weibo.com/detail/4637581877448405"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=24da0a32e680fdddac25e9d9fb656091&s=6724f0c9384240168231a3afa7243e40",
+        "short_url": "http://t.cn/A6VUwUoA",
+        "weibo_url": "https://weibo.com/detail/4637527661088408"
     },
     {
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=24da0a32e680fdddac25e9d9fb656091&s=6724f0c9384240168231a3afa7243e40",
-        "short_url": "http://t.cn/A6VUwUoA",
-        "weibo_url": "https://weibo.com/detail/4637527661088408"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7004f39b5735d326551a7c3906d2b299&s=54ef15709958434abcddc4301db9e892",
+        "short_url": "http://t.cn/A6VUtOvl",
+        "weibo_url": "https://weibo.com/detail/4637581877448405"
     },
     {
         "artist": "鞠婧祎",
