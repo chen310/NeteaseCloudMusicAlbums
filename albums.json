@@ -83,6 +83,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4d30df37d1119b0c46f1ffdc2dcf4e40&s=04f7d712718342b894434c96cac2af9f",
+        "short_url": "http://t.cn/A6V4CncE",
+        "weibo_url": "https://weibo.com/detail/4637917202351398"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=dd16f2b8e397c3d5b0078d7c788a21e8&s=08c5b9e6d2594c90af1c05b1766c8abd",
         "short_url": "http://t.cn/A6VLkWgv",
         "weibo_url": "https://weibo.com/detail/4637221694475497"
@@ -193,6 +201,14 @@
     },
     {
         "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2ca1286fcd54a4bd6062e2aec7697903&s=8c827587478543159eefd62d090ce71c",
+        "short_url": "http://t.cn/A6V4CR41",
+        "weibo_url": "https://weibo.com/detail/4637917035105600"
+    },
+    {
+        "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=574614da8bec8ef94f8d16b102f5a6bf&s=6d5bb801eca24a22b36118d35c496d6a",
@@ -208,12 +224,12 @@
         "weibo_url": "https://weibo.com/detail/4637911452747390"
     },
     {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
+        "artist": "范丞丞",
+        "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=dd4aba3cd8e01d1084cf092b9ea93c97&s=80f18bf7a0b74841ba2c813832f9bec3",
-        "short_url": "http://t.cn/A6VUGpYE",
-        "weibo_url": "https://weibo.com/detail/4637568031002189"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=746efbcb908f3f16079c68f8da70433f&s=67c4de45692b42ba94f981f807902ce0",
+        "short_url": "http://t.cn/A6V4CtVq",
+        "weibo_url": "https://weibo.com/detail/4637914758122263"
     },
     {
         "artist": "鞠婧祎",
@@ -230,6 +246,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b4c1e36869b80de1a910694c63f60f75&s=25291b3e23354c94a3011fa2e058133e",
         "short_url": "http://t.cn/A6VUAS9A",
         "weibo_url": "https://weibo.com/detail/4637533641638836"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dd4aba3cd8e01d1084cf092b9ea93c97&s=80f18bf7a0b74841ba2c813832f9bec3",
+        "short_url": "http://t.cn/A6VUGpYE",
+        "weibo_url": "https://weibo.com/detail/4637568031002189"
     },
     {
         "artist": "鞠婧祎",
