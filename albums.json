@@ -1,13 +1,5 @@
 [
     {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9cc486fcc4834582ee46b237f450cb64&s=449a369e11654d05a95a8d3fcfeab5c2",
-        "short_url": "http://t.cn/A6V4aYBG",
-        "weibo_url": "https://weibo.com/detail/4637892842357581"
-    },
-    {
         "artist": "周深",
         "name": "化身孤岛的鲸",
         "type": "song",
@@ -190,6 +182,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=1a510ff981194695d85cde4f3b24bdc2&s=3c8c8e2485974a9d9047359a24d80c87",
         "short_url": "http://t.cn/A6VyndEz",
         "weibo_url": "https://weibo.com/detail/4637438545496315"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=792ec26d692422393d6860c696e31975&s=8dd9372ed668460e818b046b263fadea",
+        "short_url": "http://t.cn/A6V4pWj4",
+        "weibo_url": "https://weibo.com/detail/4637926488543540"
     },
     {
         "artist": "范丞丞",
