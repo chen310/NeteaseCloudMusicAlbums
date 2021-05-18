@@ -112,6 +112,14 @@
         "weibo_url": "https://weibo.com/detail/4638159029928250"
     },
     {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=51dfd8ed7d32e35ceaa274aeaf2fa49b&s=6f6bc9d373c4480f9cc198eb7ded2dc4",
+        "short_url": "http://t.cn/A6Vb1mAF",
+        "weibo_url": "https://weibo.com/detail/4638271815289240"
+    },
+    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
@@ -291,32 +299,8 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4dbc37141be8f7d407ae8afebfa10e10&s=4f83594b37014d8ebd477317e6e4aee0",
-        "short_url": "http://t.cn/A6VUyEdW",
-        "weibo_url": "https://weibo.com/detail/4637548670616261"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fb0092bb80f02fd5072250802acdffda&s=2747d2542d474a378e6b6a7fe094f456",
-        "short_url": "http://t.cn/A6VUyWVL",
-        "weibo_url": "https://weibo.com/detail/4637547927964902"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a5013c3a496119c04f8b15684b92b623&s=546138a548b64a12b07a4a14e2e2134b",
         "short_url": "http://t.cn/A6VbjdhA",
         "weibo_url": "https://weibo.com/detail/4638217708504620"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fef48e9bdad0d6b5ff0ea3f988d80b6c&s=ed57433d93024f6c9067408e0cf0ddcc",
-        "short_url": "http://t.cn/A6VUyHiI",
-        "weibo_url": "https://weibo.com/detail/4637548322754094"
     }
 ]
